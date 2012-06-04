@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ <!ENTITY % TEI.XML "INCLUDE"> <!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > %PersProse; <!NOTATION jpg SYSTEM "JPEG"> <!ENTITY NW_RichTimesD_025_096_001 SYSTEM "NW_RichTimesD_025_096_001.jpg" NDATA jpg> <!ENTITY NW_RichTimesD_025_096_002 SYSTEM "NW_RichTimesD_025_096_002.jpg" NDATA jpg> ]> <TEI.2 id="NW_RichTimesD_025_096"> <teiHeader type="aacr2"> <fileDesc> <titleStmt> <title type="245">The Daily Dispatch: October 22, 1863. </title> <title type="gmd">[Electronic resource] </title> <funder> Institute of Museum and Library Services National Leadership Grant </funder> <respStmt> <resp>Creation of machine-readable version: </resp> <name>digital Divide Data </name> <resp>Creation of digital images: </resp> <name>digital Divide Data </name> <resp>Conversion to Tei.2-conformant markup: </resp> <name>digital Divide Data </name> </respStmt> </titleStmt> <extent>ca. <num value="30">XXX</num> kilobytes </extent> <publicationStmt> <publisher>University of <orgName n="Richmond Library" type="library">Richmond Library</orgName> </publisher> <pubPlace>Richmond, Virginia </pubPlace> <idno type="Url">Nw_richtimesd_025_096</idno> <availability> 
+<p>&#x00A9; 2004 by the University of Richmond. </p> 
+<p>Url: http://oncampus.Richmond.edu/academics/Library/digital/ </p> </availability> <date> </date> </publicationStmt> <seriesStmt> 
+<p>Institute of Museum and Library Services Civil War Newspaper Project </p> </seriesStmt> <notesStmt> <note>page images have been included from the microfilm version. </note> <note>images were scanned with a Sunrise 2000 scanner from microfilm, at 14x reduction ratio at 400 dpi Optical resolution. Creation Software: Pixel Translations. Pixtiff version 1.135. </note> <note>Ddd note: shipped: 2005_04_01_ddd_url. </note> </notesStmt> <sourceDesc> <biblFull> <titleStmt> <title type="245">The Daily Dispatch: October 22, 1863. </title> <title type="246"><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName> </title> <respStmt> <resp> </resp> <name> </name> </respStmt> </titleStmt> <editionStmt> 
+<p> </p> </editionStmt> <extent>2 pages. </extent> <publicationStmt> <publisher>by Cowardin &#x0026; Hammersley. </publisher> <pubPlace>Richmond </pubPlace> <date value="1863-10-22">October 22, 1863</date><idno type="vol">25.96</idno> </publicationStmt> <seriesStmt> <title> </title> </seriesStmt> <notesStmt> <note>microfilm. Ann Arbor, Mi : Proquest. 1 microfilm reel ; 35 mm. </note> </notesStmt> </biblFull> </sourceDesc> </fileDesc> <encodingDesc> <projectDesc> 
+<p>Imls Civil War Newspaper Project. </p> </projectDesc> <editorialDecl> 
+<p>the images exist as archival Tiff images, with Jpeg versions for internet access. </p> </editorialDecl> <refsDecl> <state unit="article" /> </refsDecl> <classDecl> <taxonomy id="lcsh"> <bibl> <title>Library of Congress subject Headings, </title> <edition>21st edition, 1998</edition> </bibl> </taxonomy> </classDecl> </encodingDesc> <profileDesc> <creation> <date value="1863">1863 </date> </creation> <langUsage> <language id="eng">English </language> </langUsage> 
+<textClass> <keywords scheme="lcsh"> 
+<list type="simple"> 
+<item>Newspapers -- Virginia -- Richmond</item> </list> </keywords> </textClass> </profileDesc> <revisionDesc> <change> <date>Month, Year </date> <respStmt> <resp>Corrector </resp> <name>firstName lastName, of the University of <orgName n="Richmond Library" type="library">Richmond Library</orgName> </name> </respStmt> 
+<item>Text validation, generation of authority lists, final tagging. </item> </change> </revisionDesc> </teiHeader> 
+<text id="NW_RichTimesD_025_096T"> <front> <milestone unit="page" n="1"/> 
+<div1 type="page-image"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="1"/><figure entity="NW_RichTimesD_025_096_001"> <figDesc>Page image of Daily Dispatch, Volume <num value="25">25</num>, <num value="96">Number 96</num>, <ref n="page 1">page 1</ref>. </figDesc> </figure></p> </div1> <titlePage> <docTitle><titlePart type="main"> Daily Dispatch </titlePart> </docTitle> <docImprint> Vol. Xxv &mdash; no.<num value="96">96</num> <pubPlace> <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond, Va.</placeName> </pubPlace> <date value="1863-10-22">Thursday, October 22, 1863</date> price <num value="1">one</num> Cent </docImprint> </titlePage> 
+<div1 type="subscription"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName><lb/> by <persName n="Cowardin,,,,," id="n-0001.0000.00000.00001" reg="mostcommon:Cowardin,nomatch:0"><surname>Cowardin</surname></persName> &#x0026; <persName n="Hammersley,,,,," id="n-0001.0000.00000.00002" reg="mostcommon:Hammersley,nomatch:0"><surname>Hammersley</surname></persName>.</head> 
+<p>
+
+<milestone unit="sentence" n="2"/>the <rs>Daily Dispatch</rs> is served to subscribers at <num value="6.25">six and A Quarter</num> Cents per Week, payable to the <name>Carrier</name> weekly.
+
+<milestone unit="sentence" n="3"/><persName n="Price,,,,," id="n-0001.0000.00000.00003" reg="mostcommon:Price,nomatch:0"><surname>Price</surname></persName> for mailing, <measure n="4dollars" type="currency">$4</measure> a year, or <measure n="2.50dollars" type="currency">$2.50</measure> for <measure n="6months" type="date">six months</measure>, in advance.</p> 
+<p>
+
+<milestone unit="sentence" n="4"/>the <rs>Semi-Weekly Dispatch</rs> is issued every <dateStruct><day type="name">Tuesday</day></dateStruct> and <dateStruct><day type="name">Friday</day></dateStruct> at <measure n="2.00dollars" type="currency">$2.00</measure>, in advance.</p> 
+<p>
+
+<milestone unit="sentence" n="5"/>the <rs>Weekly Dispatch</rs> is issued every <dateStruct><day type="name">Friday</day></dateStruct>, and mailed to subscribers at <measure n="1dollars" type="currency">$1</measure> per annum.</p> </div1> 
+<div1 type="advertising"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName></head> 
+<p>
+
+<milestone unit="sentence" n="6"/> 
+<table rows="4" cols="4"> 
+<head rend="italics">Terms of Advertising.</head> 
+<row><cell><num value="1">1</num> square, <num value="1">1</num> day,</cell><cell><measure n="0.50dollars" type="currency">$0.50</measure></cell><cell><num value="1">1</num> square, <measure n="5days" type="date">5 days</measure>,</cell><cell><measure n="1.00dollars" type="currency">$1.00</measure></cell></row> 
+<row><cell><num value="1">1</num> square, <measure n="2days" type="date">2 days</measure></cell><cell><measure n="0.75dollars" type="currency">$0.75</measure></cell><cell><num value="1">1</num> square, <measure n="5days" type="date">5 days</measure>,</cell><cell><measure n="1.75dollars" type="currency">$1.75</measure></cell></row> 
+<row><cell><num value="1">1</num> square <measure n="3days" type="date">3 days</measure></cell><cell><measure n="1.00dollars" type="currency">$1.00</measure></cell><cell><num value="1">1</num> square, <measure n="12days" type="date">12 days</measure>,</cell><cell><measure n="3.00dollars" type="currency">$3.00</measure></cell></row> 
+<row><cell><num value="1">1</num> square <measure n="4days" type="date">4 days</measure></cell><cell><measure n="1.36dollars" type="currency">$1.36</measure></cell><cell><num value="1">1</num> square, <dateStruct value="-1-"><month reg="1">1 month</month></dateStruct>,</cell><cell><measure n="5.00dollars" type="currency">$5.00</measure></cell></row> </table></p> 
+<p>
+
+<milestone unit="sentence" n="7"/><hi rend="italics">Larger advertisements in exact properties.</hi></p> 
+<p>
+
+<milestone unit="sentence" n="8"/>Advertisements published until forbid, will be charged <measure n="50cents" type="currency">50 cents</measure> per square of <num value="8">eight</num> lines for the <num value="1" type="ordinal">first</num> insertion, and <measure n="25cents" type="currency">25 cents</measure> for each continuance</p> </div1> </front> <body> <milestone unit="column" n="1"/> 
+<div1 type="notices"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName>.</head> 
+<div2 type="lost"> 
+<head>Lost, Strayed, &#x0026;c.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="9"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="12"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="13"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="14"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="15"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="16"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="17"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="18"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="19"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="20"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="21"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="22"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="23"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="announcements"> 
+<head></head> 
+<div3 type="article" n="1"> 
+<head>Ranaway--<measure n="100dollars" type="currency">$100</measure> <hi rend="smallcaps">reward</hi></head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="10"/> --From the subscriber, <dateStruct value="---"><day type="name">Monday</day></dateStruct> <time>morning</time>, <dateStruct value="-10-20"><month reg="10">Oct.</month> <day reg="20">20th</day></dateStruct>, my negro man <persName n="Grant,,Peter,,," id="n-0001.0000.00000.00004" reg="default:Grant,Peter,,,"><foreName>Peter</foreName> <surname>Grant</surname></persName>, a shoemaker.
+
+<milestone unit="sentence" n="11"/>He is about <measure n="30years" type="date">30 years</measure> of age; smoked bacon color; <measure n="5feet" type="distance">5 feet</measure> <measure n="8inches" type="distance">8 inches</measure> high; rather delicate looking man, <unclear>s</unclear> ruptured in the navel.
+
+<milestone unit="sentence" n="12"/>He was seen at the <orgName n="Central Railroad" type="railroad">Central railroad</orgName> depot <dateStruct value="---"><day type="name">Tuesday</day></dateStruct> <time>morning</time>, <dateStruct value="-10-21"><month reg="10">Oct.</month> <day reg="21">21st</day></dateStruct>, and is probably making his way towards <placeName reg="Orange, Virginia, United States" key="tgn,2002177">Orange county</placeName>, where he came from.
+
+<milestone unit="sentence" n="13"/>I will pay the above reward for the recovery of the negro, if delivered to me at <address><street n="Main Street 73">No. 73 Main st</street></address>, <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond, Va.</placeName> </p> <closer> <signed>P K <persName n="White,,,,," id="n-0001.0000.00000.00005" reg="mostcommon:White,nomatch:0"><surname>White</surname></persName>.</signed> <term type="printrun">oc 21--2t*</term> </closer> </div3> </div2> 
+<div2 type="advertisements"> 
+<head></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="14"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="2"/> 
+<div2 type="amusements"> 
+<head>Amusements.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="15"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> </div1> <milestone unit="column" n="3"/> 
+<div1 type="news"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName>.</head> 
+<div2 type="morning"> 
+<head><date value="1863-10-22">Thursday morning...October 22, 1863.</date></head> 
+<div3 type="article" n="1"> 
+<head>From <placeName reg="Chickamauga, Walker, Georgia" key="tgn,7013598">Chickamauga</placeName>.</head> <byline>[<hi rend="italics">from our own Correspondent.</hi>]</byline> <opener> <dateline> <placeName reg="Lookout Mountain, Hamilton, Tennessee" key="tgn,2100143">Lookout Mountain, Tenn.</placeName>,<lb/><dateStruct value="1863-10-14"><month reg="10">October</month> <day reg="14">14</day>, <year reg="1863">1863</year></dateStruct>, </dateline> </opener> 
+<p>
+
+<milestone unit="sentence" n="16"/> The <num value="2">two</num> armies confront each other still, though in other respects some interesting changes have occurred since the date of my last letter from this place.
+
+<milestone unit="sentence" n="17"/><persName n="Rosecrans,,,,," id="n-0001.0000.00000.00006" reg="mostcommon:Rosecrans,nomatch:0"><surname>Rosecrans</surname></persName> has rebuilt the lower (trestle) bridge that was carried away by the freshet some <measure n="10days" type="date">ten days</measure> ago. This time he has made it higher, and apparently stronger, than it was before, but not so high or so strong, it is hoped, that it may not be swept away by the heavy rain which has been falling here for the last <measure n="36hours" type="date">thirty-six hours</measure>. </p> 
+<p>
+
+<milestone unit="sentence" n="18"/> It is believed, also, that <persName n="Rosecrans,,,,," id="n-0001.0000.00000.00007" reg="mostcommon:Rosecrans,nomatch:0"><surname>Rosecrans</surname></persName> has sent his horses to the rear &mdash; probably to points on the railroad where they will be convenient to forage &mdash; as none have been seen about <placeName reg="Chattanooga, Hamilton, Tennessee" key="tgn,7017496">Chattanooga</placeName> for the last few days.
+
+<milestone unit="sentence" n="19"/>This step, if it has been taken, will diminish greatly the pressure upon his wagon trains, the principal labors of which will hereafter be limited to the transportation of supplies for the <rs>Federal</rs> troops. </p> 
+<p>
+
+<milestone unit="sentence" n="20"/> The shortest and best road by which he can haul these supplies passes along the north bank of the <placeName key="tgn,2715022" n="1.000 335" reg="tennessee river, united states, north and central america">Tennessee</placeName> at a sharp bend in the river, <num value="6">six</num> or <placeName><distance reg="8miles">eight miles</distance> below <placeName reg="Chattanooga, Hamilton, Tennessee" key="tgn,7017496">Chattanooga</placeName></placeName>.
+
+<milestone unit="sentence" n="21"/>At this point the trains are exposed to the fire of our sharpshooters, posted on the south bank, who attacked <num value="1">one</num> of the trains on the <dateStruct value="--11"><day reg="2">11th</day></dateStruct>, killed a number of mules, and completely blocked up the way. The following day the enemy shelled the woods along the river in that vicinity, with the hope of driving the <rs>Confederates</rs> away or of making them show themselves; but he succeeded in doing neither.
+
+<milestone unit="sentence" n="22"/>Should we be able to close this road, the distance by the circuitous route which the trains would be compelled to travel would be almost, if not quite, doubled, whilst the difficult and rugged character of the way would be increased in the same ratio. </p> 
+<p>
+
+<milestone unit="sentence" n="23"/> It is not probable, however, that the enemy will abandon the lower or river road without making a strong effort to keep it open.
+
+<milestone unit="sentence" n="24"/>The difficulty of procuring supplies is already serious enough.
+
+<milestone unit="sentence" n="25"/>It is reported that a provision train arrived night before last, and that for some days previous the <rs>Federal</rs> army had been put upon shorter rations than any <orgName n="Confederate Army" type="org">Confederate army</orgName> in the field has ever been reduced to. This lower road passes through the town of <placeName reg="Jasper, Marion, Tennessee" key="tgn,2099750">Jasper</placeName>, to which point, it is further reported, the <rs>Federals</rs> are building, if they have not already completed, a railroad, connecting with the <placeName reg="East Nashville, Davidson, Tennessee" key="tgn,2308580">Nashville</placeName> and <placeName reg="Chattanooga, Hamilton, Tennessee" key="tgn,7017496">Chattanooga</placeName> road at <placeName reg="Bridgeport, Cocke, Tennessee" key="tgn,2098103">Bridgeport</placeName>.
+
+<milestone unit="sentence" n="26"/>The roadbed for this work was prepared, as I learn, before the commencement of the war. --When put into operation, it will reduce the distance from <placeName reg="Bridgeport, Cocke, Tennessee" key="tgn,2098103">Bridgeport</placeName> to <placeName reg="Chattanooga, Hamilton, Tennessee" key="tgn,7017496">Chattanooga</placeName>, by the wagon road, nearly <num value="1">one</num> <num value="3" type="ordinal">third</num>. </p> 
+<p>
+
+<milestone unit="sentence" n="27"/> We are without further intelligence from <placeName reg="Knoxville, Knox, Tennessee" key="tgn,7013841">Knoxville</placeName>, and nothing has been heard of <persName n="Wheeler,General,,,," id="n-0001.0000.00000.00008" reg="mostcommon:Wheeler,nomatch:0"><roleName n="General">Gen.</roleName> <surname>Wheeler</surname></persName>, for whose safety considerable uneasiness is felt in official circles.* The <orgName n="Louisville Journal" type="newspaper">Louisville <hi rend="italics">Journal</hi></orgName>, of the <dateStruct value="--3"><day reg="3">3d inst.</day></dateStruct>, says that <persName n="Slocum,Major-General,,,," id="n-0001.0000.00000.00009" reg="mostcommon:Slocum,nomatch:0"><roleName n="Major-General">Major General</roleName> <surname>Slocum</surname></persName> and <persName n="Williams,Brigadier-General,,,," id="n-0001.0000.00000.00010" reg="nearbymention:Williams,Thos,,,"><roleName n="Brigadier-General">Brigadier Generals</roleName> <surname>Williams</surname></persName> and <persName n="Knipe,Brigadier-General,,,," id="n-0001.0000.00000.00011" reg="mostcommon:Knipe,nomatch:0"><roleName n="Brigadier-General"></roleName><surname>Knipe</surname></persName>, of the <orgName n="Army of the Potomac" type="army">Army of the Potomac</orgName>, arrived at that city on the evening of the <num value="2" type="ordinal">2d</num>.
+
+<milestone unit="sentence" n="28"/>It is believed that these officers and their commands have already reached their destination.
+
+<milestone unit="sentence" n="29"/><persName n="Slocum,,,,," id="n-0001.0000.00000.00012" reg="mostcommon:Slocum,nomatch:0"><surname>Slocum</surname></persName> and <persName n="Williams,,,,," id="n-0001.0000.00000.00013" reg="nearbymention:Williams,Thos,,,"><surname>Williams</surname></persName> each commanded a <hi rend="italics">corps d'armes</hi> at the <rs n="Battle of Chancellorsville" type="battle">battle of Chancellorsville</rs>.
+
+<milestone unit="sentence" n="30"/>It may be that a portion of the reinforcements sent to <persName n="Rosecrans,,,,," id="n-0001.0000.00000.00014" reg="mostcommon:Rosecrans,nomatch:0"><surname>Rosecrans</surname></persName> has been ordered to <placeName reg="Bridgeport, Cocke, Tennessee" key="tgn,2098103">Bridgeport</placeName>, <persName n="Stevenson,,,,," id="n-0001.0000.00000.00015" reg="mostcommon:Stevenson,nomatch:0"><surname>Stevenson</surname></persName>, and other points along the enemy's line of communications, and that <persName n="Wheeler,,,,," id="n-0001.0000.00000.00016" reg="mostcommon:Wheeler,nomatch:0"><surname>Wheeler</surname></persName> has encountered a heavier force than he expected when he started on his expedition.
+
+<milestone unit="sentence" n="31"/>We have no information in regard to the whereabouts of the <rs>Federal</rs> cavalry. </p> 
+<p>
+
+<milestone unit="sentence" n="32"/> But to what point have the <rs>Federal</rs> reinforcements been sent?
+
+<milestone unit="sentence" n="33"/>It is not improbable that most of them have gone, or will go, to <placeName reg="Knoxville, Knox, Tennessee" key="tgn,7013841">Knoxville</placeName> and other points in <placeName reg="Tennessee" key="tgn,7007825"><rs type="direction">East</rs> Tennessee</placeName>, and to <placeName reg="Bridgeport, Cocke, Tennessee" key="tgn,2098103">Bridgeport</placeName> and <persName n="Stevenson,,,,," id="n-0001.0000.00000.00017" reg="mostcommon:Stevenson,nomatch:0"><surname>Stevenson</surname></persName>, in <placeName reg="Alabama" key="tgn,7002659"><rs type="direction">Northeast</rs> Alabama</placeName>, and that only a small number, comparatively, have been ordered to <placeName reg="Chattanooga, Hamilton, Tennessee" key="tgn,7017496">Chattanooga</placeName>.
+
+<milestone unit="sentence" n="34"/>It is the purpose of the <rs>Federal Government</rs> to hold <placeName reg="Tennessee" key="tgn,7007825"><rs type="direction">East</rs> Tennessee</placeName> permanently, if possible, and to that end the flanks of <persName n="Rosecrans,,,,," id="n-0001.0000.00000.00018" reg="mostcommon:Rosecrans,nomatch:0"><surname>Rosecrans</surname></persName> will be protected by heavy columns, distributed at supporting distances from each other, along the <orgName n="Nashville and Chattanooga Railroad" type="railroad">Nashville and Chattanooga Railroad</orgName> as far as <placeName key="tgn,2005379" n="1.000 91" reg="stevenson, jackson, alabama">Stevenson</placeName>, and along the <placeName reg="Tennessee" key="tgn,7007825"><rs type="direction">East</rs> Tennessee</placeName> road above and below <placeName reg="Knoxville, Knox, Tennessee" key="tgn,7013841">Knoxville</placeName>.
+
+<milestone unit="sentence" n="35"/>Should another attempt at invasion be made, as there doubtless will be if we remain idle, the <rs>Federal</rs> plan of campaign will probably involve a simultaneous advance from <placeName reg="Bridgeport, Cocke, Tennessee" key="tgn,2098103">Bridgeport</placeName>, <placeName reg="Chattanooga, Hamilton, Tennessee" key="tgn,7017496">Chattanooga</placeName>, and <placeName reg="Knoxville, Knox, Tennessee" key="tgn,7013841">Knoxville</placeName>, upon <placeName reg="Dalton, Whitfield, Georgia" key="tgn,2022620">Dalton</placeName>. </p> 
+<p>
+
+<milestone unit="sentence" n="36"/> But it is believed that the combinations of the enemy, whatever they may be, might have been defeated if we had pressed him <dateStruct><day type="name">Monday</day></dateStruct> and <dateStruct><day type="name">Tuesday</day></dateStruct> after the battle, or moved promptly towards <placeName reg="Tennessee" key="tgn,7007825"><rs type="direction">East</rs> Tennessee</placeName> upon his left flank.
+
+<milestone unit="sentence" n="37"/>Indeed, it is said that this latter movement was not only decided upon in a full council of superior officers, but that it was actually begun on <dateStruct><day type="name">Tuesday</day></dateStruct>, the <date value="09-22">22d of September,</date> only to be countermanded that night.
+
+<milestone unit="sentence" n="38"/>The object of the proposed movement, doubtless, was to capture or disperse the forces under <persName n="Burnside,,,,," id="n-0001.0000.00000.00019" reg="mostcommon:Burnside,nomatch:0"><surname>Burnside</surname></persName>, reoccupy <placeName reg="Tennessee" key="tgn,7007825"><rs type="direction">East</rs> Tennessee</placeName>, and make a bold push for <placeName reg="East Nashville, Davidson, Tennessee" key="tgn,2308580">Nashville</placeName>.
+
+<milestone unit="sentence" n="39"/>It is doubtful, however, whether our supplies and means of transportation were sufficient at that time for an undertaking so important as a movement upon <placeName reg="East Nashville, Davidson, Tennessee" key="tgn,2308580">Nashville</placeName>, though it is believed we might have gone far enough to reopen <placeName reg="Tennessee" key="tgn,7007825"><rs type="direction">East</rs> Tennessee</placeName> and compel <persName n="Rosecrans,,,,," id="n-0001.0000.00000.00020" reg="mostcommon:Rosecrans,nomatch:0"><surname>Rosecrans</surname></persName> to retire upon the capital of the <rs>State</rs>.
+
+<milestone unit="sentence" n="40"/>In the meantime preparations might have been made for an eventual advance into <placeName reg="Tennessee" key="tgn,7007825"><rs type="direction">Middle</rs> Tennessee</placeName>.
+
+<milestone unit="sentence" n="41"/>It is hoped the golden opportunity has not been entirely lost. </p> <closer> <signed>Sallust.</signed> <lb/> * <persName n="Wheeler,General,,,," id="n-0001.0000.00000.00021" reg="mostcommon:Wheeler,nomatch:0"><roleName n="General">Gen.</roleName> <surname>Wheeler</surname></persName> has since safely returned. </closer> </div3> 
+<div3 type="article" n="2"> 
+<head type="nobreak" rend="smallcaps">Affairs in New York.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="42"/> --A letter from New York, dated the <dateStruct value="--14"><day reg="14">14th inst.</day></dateStruct>, gives the following intelligence from that metropolis of <rs n="Yankee" type="group">Yankees</rs>: </p> <cit><q rend="break"> 
+<p>
+
+<milestone unit="sentence" n="43"/> The <term type="ship">iron-clad</term> <rs type="ship">Manhattan</rs> was launched from <placeName reg="Secor, Hardin, Iowa" key="tgn,2651094">Secor</placeName>'s yard, <placeName reg="Jersey City, Hudson, New Jersey" key="tgn,7013813">Jersey City</placeName>, this morning, in the presence of several <num value="1000">thousand</num> spectators, among whom were noted <persName n="Farragut,Admiral,,,," id="n-0001.0000.00000.00022" reg="mostcommon:Farragut,nomatch:0"><roleName n="Admiral">Admirals</roleName> <surname>Farragut</surname></persName> and <persName n="Gregory,Admiral,,,," id="n-0001.0000.00000.00023" reg="mostcommon:Gregory,nomatch:0"><roleName n="Admiral"></roleName><surname>Gregory</surname></persName>, <persName n="Stimers,Chief-Engineer,,,," id="n-0001.0000.00000.00024" reg="mostcommon:Stimers,nomatch:0"><roleName n="Chief-Engineer">Chief Engineer</roleName> <surname>Stimers</surname></persName>, and a number of officers from the <rs>Russian</rs> and <rs>French</rs> fleets. --The vessel was christened by <persName n="Gregory,Miss,,,," id="n-0001.0000.00000.00025" reg="mostcommon:Gregory,nomatch:0"><roleName n="Miss">Miss</roleName> <surname>Gregory</surname></persName>, grand-daughter of the <rs>Admiral</rs>, after which the &#x0022;monster&#x0022; glided into the water without the slightest mishap and amidst the cheers of the multitude.
+
+<milestone unit="sentence" n="44"/>The dimensions of the <rs>Manhattan</rs> are as follows: Extreme length over armor, <measure n="235feet" type="distance">235 feet</measure>; length outside of stern post, <measure n="160feet" type="distance">160 feet</measure>; extreme beam over armor, <measure n="46feet" type="distance">46 feet</measure>; depth of hold, <measure n="13feet" type="distance">13 feet</measure>. It is expected that the <rs>Manhattan</rs> will be ready for sea say about the <date value="11-15">15th of November.</date> </p> </q><bibl n="New York"></bibl></cit> 
+<p>
+
+<milestone unit="sentence" n="45"/> The <num value="160">one hundred and sixty</num> rebel officers who were sent on here from New Orleans by the steamer <orgName n="Evening Star" type="newspaper">Evening Star</orgName>, were transferred from <placeName key="possibilities=11" n="1.000 10" reg=",">Governor's Island</placeName> to-day to <placeName reg="Sandusky Bay, Ohio, United States" key="tgn,1113771">Sandusky Bay</placeName>, to join the <num value="1000">thousands</num> of their fellow rebels confined on <placeName reg="Johnson Island, Ottawa, Ohio" key="tgn,2424997">Johnson's Island</placeName>.
+
+<milestone unit="sentence" n="46"/>It seems that these prisoners, while on the steam-tug conveying them from the <orgName n="Evening Star" type="newspaper">Evening Star</orgName> to <placeName key="tgn,1006924" n="1.000 11" reg="davids island, westchester, new york">David's Island</placeName>, were supplied with an abundance of champagne by certain sympathizing friends, which was so freely imbibed that all hands were in a state of intoxication before their destination was reached.
+
+<milestone unit="sentence" n="47"/>At <num value="1">one</num> time they threatened to attack the guard, and in other respects behaved themselves so scandalously as to create serious alarm on board the boat. </p> 
+<p>
+
+<milestone unit="sentence" n="48"/> There is, I hear, some reason to suspect that the <rs>Russian</rs> officers were offended at the invitation given to the <rs>French</rs> and <rs>British</rs> officers by the <rs>Commissioners</rs> of Charities and Correction, yesterday, to visit the public institutions.
+
+<milestone unit="sentence" n="49"/>The <rs>Russians</rs> preferred going alone, and hence declined the invitation.
+
+<milestone unit="sentence" n="50"/>At all events that is the story.
+
+<milestone unit="sentence" n="51"/>To-morrow, however, the gentlemen from Muscovy have concluded to go on the excursion, and have sent the <rs>Commissioners</rs> a notification to that effect.
+
+<milestone unit="sentence" n="52"/>As for the <name>Britishers</name>, we have got rid of them altogether, <persName n="Milne,Admiral,,,," id="n-0001.0000.00000.00026" reg="mostcommon:Milne,nomatch:0"><roleName n="Admiral">Admiral</roleName> <surname>Milne</surname></persName> having returned to <placeName reg="Halifax, Halifax, North Carolina" key="tgn,2074968">Halifax</placeName> in the <rs>Nile</rs>, which, with the <name>Immortalize</name>, went to sea this morning. </p> </div3> 
+<div3 type="article" n="3"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="53"/> <persName n="Ruffin,Colonel,Thomas,,," id="n-0001.0000.00000.00027" reg="default:Ruffin,Thomas,,,"><roleName n="Colonel">Col.</roleName> <foreName>Thomas</foreName> <surname>Ruffin</surname></persName>, of the <orgName type="regiment" key="1NCCav">1st N. C. cavalry</orgName>, who was reported killed, is a wounded prisoner in the hands of the enemy. </p> </div3> <milestone unit="column" n="4"/> 
+<div3 type="article" n="4"> 
+<head>Speech of <persName><roleName n="Earl">Earl</roleName> <foreName>Russell</foreName></persName>.</head> 
+<p>
+
+<milestone unit="sentence" n="54"/> <persName><roleName n="Earl">Earl</roleName> <foreName>Russell</foreName></persName> delivered a speech at <placeName reg="Blairgowrie,Perth and Kinross,Scotland,United Kingdom,Europe" key="tgn,1050450">Blairgowrie, Scotland</placeName>, on the <dateStruct value="--26"><day reg="26">26th ult.</day></dateStruct> A synopsis by telegraph has been published, but the following portions of the address relating to <placeName reg="America, Walker, Alabama" key="tgn,2002460">America</placeName> will be found interesting: </p> 
+<div4 type="entry" n="1"> 
+<head>Belligerent rights.</head> 
+<p>
+
+<milestone unit="sentence" n="55"/> This was the state of affairs when that which we certainly had no part in broke out &mdash; when, if I remember rightly, <num value="9">nine</num> of the <rs>Southern States</rs> of <placeName reg="America, Walker, Alabama" key="tgn,2002460">America</placeName> declared that they would form an independent republic.
+
+<milestone unit="sentence" n="56"/>Our course on the subject has been at tacked and blamed in the bitterest terms &mdash; blamed sometimes by the <rs>Federals</rs> and some times by the <rs>Confederates</rs>.
+
+<milestone unit="sentence" n="57"/>The <num value="1" type="ordinal">first</num> offence was felt by the <rs>Federals</rs>.
+
+<milestone unit="sentence" n="58"/>They said we had no right to grant &mdash; so far as we were concerned &mdash; to the <rs>Confederates</rs> the rights of belligerents.
+
+<milestone unit="sentence" n="59"/>Well, now, gentlemen, that question of the rights of belligerents is a question of fact; I put it to you whether, with <num value="5000000">five millions</num> of people, <num value="5000000">5,000,000</num> I mean of free men, declaring themselves in their several States collectively an independent State, we could pass over that as a petty rebellion.
+
+<milestone unit="sentence" n="60"/>Our <rs type="role2">Admirals</rs> asked whether the ships they met bearing the <rs>Confederate</rs> flag should be treated as pirates or no. If we had treated them as pirates, we should have been taking part in that contest.--[Cheers.] It was impossible to look on the uprising of a community of <num value="5000000">5,000,000</num> people as a mere petty insurrection--[hear, hear]--or as not having the rights which at all times are given to those who, by their numbers and importance, or by the extent of the territory they possess, are entitled to these rights.
+
+<milestone unit="sentence" n="61"/>[Cheers.] </p> 
+<p>
+
+<milestone unit="sentence" n="62"/> Well, it was said we ought not to have done that because they were a community of slaveholders.
+
+<milestone unit="sentence" n="63"/>Gentlemen, I trust that our abhorrence of slavery is not in the least abated or diminished.
+
+<milestone unit="sentence" n="64"/>[Loud and prolonged cheers.] For my own part I consider it <num value="1">one</num> of the most horrible crimes that yet disgraces humanity.
+
+<milestone unit="sentence" n="65"/>[Cheers.] But then, when we are treating of the relations which we bear to a community of men, I doubt whether it would be expedient or useful for humanity that we should introduce that new element of declaring that we will have no relations with a people who permit slavery to exist among them.
+
+<milestone unit="sentence" n="66"/>We have never adopted it yet; we have not adopted it in the case of <placeName reg="Espana" key="tgn,1000095">Spain</placeName> or <placeName reg="Brasil" key="tgn,1000047">Brazil</placeName>, and I do not believe that the cause of humanity would be served by our adopting it. [Hear, hear.] </p> </div4> 
+<div4 type="entry" n="2"> 
+<head>Are the <rs>Confederates</rs> rebels?</head> 
+<p>
+
+<milestone unit="sentence" n="67"/> Well it was said that these <placeName reg="United States" key="tgn,7012149">Confederate States</placeName> were rebels &mdash; rebels against the <rs>Union</rs>.
+
+<milestone unit="sentence" n="68"/>Perhaps, gentlemen, I am not so nice as I ought to be on the subject.
+
+<milestone unit="sentence" n="69"/>But I recollect that we rebelled against <persName><foreName>Charles</foreName> <genName n="1">I</genName></persName>. [a laugh]--we rebelled against <persName><foreName>James</foreName> <genName n="2">II</genName></persName>.
+
+<milestone unit="sentence" n="70"/>and the people of <placeName reg="New England" key="tgn,7014203">New England</placeName>; not content with these <num value="2">two</num> rebellions, rebelled against <persName><foreName>George</foreName> <genName n="3">III</genName></persName>.
+
+<milestone unit="sentence" n="71"/>[Hear, and laughter.] I am not saying now whether all these rebellions were justifiable, or whether they were wrong.
+
+<milestone unit="sentence" n="72"/>I am not saying whether the present rebellion in the <rs>Southern States</rs> is justifiable insurrection, or is a great fault or a great crime.
+
+<milestone unit="sentence" n="73"/>But I say that the mere fact of rebellion is not in my eyes a crime of so deep a dye that we must renounce all fellowship and communion and all relationship with those who have been guilty of rebellion.
+
+<milestone unit="sentence" n="74"/>[Loud cheering.] But, certainly, if I look to the declarations of those <placeName reg="New England" key="tgn,7014203">New England</placeName> orators &mdash; and I have been reading lately, if not the whole, yet a very great part, of the very long speech by <persName n="Sumner,Mister,,,," id="n-0001.0000.00000.00028" reg="mostcommon:Sumner,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Sumner</surname></persName> on the subject, delivered at New York &mdash; I own I cannot but wonder to see these men, the offspring as it were of <num value="3">three</num> rebellions, as we are the offspring of <num value="2">two</num> rebellions, really speaking, like the <name>Czar</name> of <placeName key="tgn,7002435" n="1.000 184" reg="rossiya">Russia</placeName>, the <name>Sultan</name> of <placeName key="tgn,1000144" n="1.000 41" reg="turkiye">Turkey</placeName>, or <persName><foreName>Louis</foreName> <genName n="14">XIV</genName></persName>, himself, of the dreadful crime and guilt of rebellion.
+
+<milestone unit="sentence" n="75"/>[Loud laughter and cheers.] </p> </div4> 
+<div4 type="entry" n="3"> 
+<head>The blockade.</head> 
+<p>
+
+<milestone unit="sentence" n="76"/> Our people were suffering, and suffering very greatly, for the want of the material which was the great support of their industry.
+
+<milestone unit="sentence" n="77"/>It was a question of self-interest whether we should not break that blockade; but, in my opinion, the name of <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName> would be forever infamous if, for the sake of interest of any kind, we had violated the general laws of nations and made war with these slaveholding States of <placeName reg="America, Walker, Alabama" key="tgn,2002460">America</placeName> against the <rs>Federal States</rs>.
+
+<milestone unit="sentence" n="78"/>[Hear, hear.] And, gentlemen, I am not speaking the sentiments peculiar to myself, or to those who have no immediate interest in the question; but these are, I am convinced, the sentiments of that noble-hearted people of <placeName key="tgn,7008154" n="1.000 10" reg="lancashire,england,united kingdom,europe">Lancashire</placeName> who have lived and flourished by that industry, but who would not, I am sure, allow a single spot on the escutcheon of their nation in order to maintain that industry.
+
+<milestone unit="sentence" n="79"/>[Hear, hear, and cheers.] </p> </div4> 
+<div4 type="entry" n="4"> 
+<head><placeName reg="Privateers building">Privateers building</placeName> and Fitting.</head> 
+<p>
+
+<milestone unit="sentence" n="80"/> The principle is clear enough.
+
+<milestone unit="sentence" n="81"/>If you are asked to sell muskets, you may sell muskets to <num value="1">one</num> party or to the other; and so with regard to gunpowder, shells, or cannon, and you may sell a ship in the same manner.--But if you, on the other hand, train and drill a regiment with arms in their hands, or allow a regiment to go out with arms in their hands to take part with <num value="1">one</num> of <num value="2">two</num> belligerents, you violate your neutrality and commit an offence against the other belligerents.
+
+<milestone unit="sentence" n="82"/>So in the same way in regard to ships; if you allow a ship to be armed and go at once to make an attack on a foreign belligerent you are yourself, according to your own law, taking part in the war, and it is an offence which is punished by the law. But these questions lead, as you will see, to the most difficult problems &mdash; as to whether, for instance, a <num value="1000">thousand</num> persons may go out as laborers to the <rs>Federal States</rs>, and in the next place a <num value="1000">thousand</num> muskets may go out in another ship, and when they arrive in <placeName reg="America, Walker, Alabama" key="tgn,2002460">America</placeName> these <num value="1000">thousand</num> laborers, having had an understanding before, may make a formal engagement and be armed with these <num value="1000">thousand</num> muskets; though if that had been done in the territory of the <rs>Queen</rs>, and on the soil of this country, it would have been an offence. </p> </div4> 
+<div4 type="entry" n="5"> 
+<head>The steam Ram question.</head> 
+<p>
+
+<milestone unit="sentence" n="83"/>There are other questions with regard to ships that have lately been prepared in this country, because these ships are not like ships which receive the usual equipment known in wars in times past, but they are themselves, without any further armament, formed for acts of offence and war. They are steam rams, which might be used for the purposes of war without ever touching the shores of the <rs>Confederate</rs> ports.
+
+<milestone unit="sentence" n="84"/>Well, gentlemen, to permit ships of this kind knowingly to depart from this country, not to enter into any Confederate port, not to enter into the port of a belligerent, would, as you see, expose our good faith to great suspicion; and I feel certain that if, during our war with <placeName key="tgn,1000070" n="1.000 1012" reg="france">France</placeName>, the <rs n="American" type="group">Americans</rs> had sent line-of-battle ships to break our blockade at <placeName key="tgn,7008258" n="1.000 7" reg="brest,finistere,bretagne,france,europe">Brest</placeName>, whatever reasons they might have urged in support of that, we should have considered it a violation of neutrality.
+
+<milestone unit="sentence" n="85"/>Such is the spirit in which I am prepared to act. Everything that the law of nations requires, everything that our law, that <sic>that</sic> Foreign Enlistment act requires, I am prepared to do, and even if it should be proved to be necessary for the preservation of our neutrality that the sanction of Parliament should be asked to further measures.
+
+<milestone unit="sentence" n="86"/>In short, to sum up, <name n="her Majesty" type="role">her Majesty's</name> Government are prepared to do everything that the duty of neutrality requires, everything that is just to a friendly nation, taking as a principle that we should do to others as we should wish to be done to ourselves.
+
+<milestone unit="sentence" n="87"/>[Loud Cheers.] But this will not do; we will not adopt any measure that we think to be wrong.
+
+<milestone unit="sentence" n="88"/>We will not yield a jot of <name>British</name> law or <name>British</name> right in consequence of the menaces of any foreign Power.--[Loud and prolonged cheers.] </p> </div4> 
+<div4 type="entry" n="6"> 
+<head>The Anglo (<rs n="Yankee" type="group">Yankee</rs>) Saxon Affinity for the <name>Nigger</name>.</head> 
+<p>
+
+<milestone unit="sentence" n="89"/> Gentlemen, it is a great subject; it affects the people of this part of the world and of <placeName reg="America, Walker, Alabama" key="tgn,2002460">America</placeName>; it affects the future stage of civilization; it affects the well-being of the black race, whom it was the crime of our ancestors to introduce to <placeName reg="America, Walker, Alabama" key="tgn,2002460">America</placeName>, and who, if those matters end well, will be, as I believe they are fitted to be, peaceable and intelligent members of a free country--[cheers]--on behalf of whose welfare we have been ready to make great efforts and to sacrifice much.
+
+<milestone unit="sentence" n="90"/>But we will not sacrifice any of those views of ours to mere pretence.
+
+<milestone unit="sentence" n="91"/>We have as strong feelings for the good of mankind <milestone unit="column" n="5"/> as any people can have; we must maintain our own position; and my belief is that the people of what were the <placeName reg="United States" key="tgn,7012149">United States</placeName>, whether they are called Federals or Confederates, will finally do us justice, and that they will observe, as, indeed, they cannot help observing, that in this free country, where there is so much discussion and so much difference of opinion, there are parties very considerable in number who sympathize with the <rs>Confederates</rs>, and other large masses, I believe superior in numbers, who sympathize with the <rs>Federals</rs>; but whether sympathizing with the <num value="1">one</num> or the other, we have all embraced in our hearts that sentiment of justice; justice we will do to others, justice we expect for ourselves; and I hope I am interpreting the feelings of your minds when I say that justice ought to prevail. </p> </div4> </div3> 
+<div3 type="article" n="5"> 
+<head>Casualties among <rs type="role" reg="General-Officer">General officers</rs> on both Sides during the <rs>War</rs>.</head> 
+<p>
+
+<milestone unit="sentence" n="92"/> The following is a list of the <rs n="Yankee" type="group">Yankee</rs> <rs type="role2">Generals</rs> killed, died, and resigned since the war: </p> 
+<p>
+
+<milestone unit="sentence" n="93"/> <hi rend="italics">Killed or Died from Wounds in Battle.</hi>--<persName n="Kearney,Major-General,Philip,,," id="n-0001.0000.00000.00029" reg="default:Kearney,Philip,,,"><roleName n="Major-General">Major Generals</roleName> <foreName>Philip</foreName> <surname>Kearney</surname></persName>, at <placeName key="tgn,2111044" n="1.000 114" reg="chantilly, fairfax, virginia">Chantilly</placeName>; <persName><foreName>Isaac</foreName></persName> I <persName n="Stevens,,,,," id="n-0001.0000.00000.00030" reg="mostcommon:Stevens,nomatch:0"><surname>Stevens</surname></persName>, <placeName key="tgn,2111044" n="1.000 114" reg="chantilly, fairfax, virginia">Chantilly</placeName>; <persName><foreName>Jesse</foreName></persName> L <persName n="Reno,,,,," id="n-0001.0000.00000.00031" reg="mostcommon:Reno,nomatch:0"><surname>Reno</surname></persName>, <placeName reg="South Mountain, Rockbridge, Virginia" key="tgn,2681169">South Mountain</placeName>; J K T <persName n="Mansfield,,,,," id="n-0001.0000.00000.00032" reg="mostcommon:Mansfield,nomatch:0"><surname>Mansfield</surname></persName>, <placeName key="tgn,7016218" n="1.000 581" reg="antietam, washington, maryland">Antietam</placeName>; <persName><foreName>Israel</foreName></persName> B <persName n="Richardson,,,,," id="n-0001.0000.00000.00033" reg="mostcommon:Richardson,nomatch:0"><surname>Richardson</surname></persName>, <placeName key="tgn,7016218" n="1.000 581" reg="antietam, washington, maryland">Antietam</placeName>; <persName><foreName>Hiram</foreName></persName> G <persName n="Berry,,,,," id="n-0001.0000.00000.00034" reg="mostcommon:Berry,nomatch:0"><surname>Berry</surname></persName>, <placeName key="tgn,7017621" n="1.000 260" reg="chancellorsville, spotsylvania, virginia">Chancellorsville</placeName>; A W <persName n="Whipple,,,,," id="n-0001.0000.00000.00035" reg="mostcommon:Whipple,nomatch:0"><surname>Whipple</surname></persName>, <placeName key="tgn,7017621" n="1.000 260" reg="chancellorsville, spotsylvania, virginia">Chancellorsville</placeName>; <persName><foreName>John</foreName></persName> F <persName n="Reynolds,,,,," id="n-0001.0000.00000.00036" reg="mostcommon:Reynolds,nomatch:0"><surname>Reynolds</surname></persName>, <placeName reg="Gettysburg, Adams, Pennsylvania" key="tgn,7014060">Gettysburg</placeName>. </p> 
+<p>
+
+<milestone unit="sentence" n="94"/> <persName n="Nath,Brigadier-General,,,," id="n-0001.0000.00000.00037" reg="mostcommon:Nath,nomatch:0"><roleName n="Brigadier-General">Brigadier-Generals</roleName> <surname>Nath</surname></persName>'l <persName n="Lyon,,,,," id="n-0001.0000.00000.00038" reg="mostcommon:Lyon,nomatch:0"><surname>Lyon</surname></persName>, <persName n="Wilson,,,,," id="n-0001.0000.00000.00039" reg="mostcommon:Wilson,nomatch:0"><surname>Wilson</surname></persName>'s <rs n="Creek" type="nativeamerican">Creek</rs>; F W <persName n="Lander,,,,," id="n-0001.0000.00000.00040" reg="mostcommon:Lander,nomatch:0"><surname>Lander</surname></persName>, <placeName reg="Edwards's Ferry">Edwards's Ferry</placeName>; W H L <persName n="Wallace,,,,," id="n-0001.0000.00000.00041" reg="mostcommon:Wallace,nomatch:0"><surname>Wallace</surname></persName>, <placeName reg="Shiloh, Hardin, Tennessee" key="tgn,2101495">Shiloh</placeName>; <persName n="Williams,,Thos,,," id="n-0001.0000.00000.00042" reg="default:Williams,Thos,,,"><foreName>Thos</foreName> <surname>Williams</surname></persName>, <placeName key="tgn,7017543" n="1.000 293" reg="baton rouge, baton rouge, louisiana">Baton Rouge</placeName>; H <persName n="Bohlen,,,,," id="n-0001.0000.00000.00043" reg="mostcommon:Bohlen,nomatch:0"><surname>Bohlen</surname></persName>, <placeName reg="Rappahannock Ford">Rappahannock Ford</placeName>; <persName n="Geo,,,,," id="n-0001.0000.00000.00044" reg="mostcommon:Geo,nomatch:0"><surname>Geo</surname></persName> W <persName n="Taylor,,,,," id="n-0001.0000.00000.00045" reg="mostcommon:Taylor,nomatch:0"><surname>Taylor</surname></persName>, <placeName key="tgn,2112877" n="1.000 541" reg="manassas, manassas, virginia">Manassas</placeName>; <persName><foreName>Isaac</foreName></persName> P <persName n="Rodman,,,,," id="n-0001.0000.00000.00046" reg="mostcommon:Rodman,nomatch:0"><surname>Rodman</surname></persName>, <placeName key="tgn,7016218" n="1.000 581" reg="antietam, washington, maryland">Antietam</placeName>; P A Hackleman, <placeName key="tgn,7017649" n="1.000 1055" reg="corinth, alcorn, mississippi">Corinth</placeName>; <persName n="Jas,,,,," id="n-0001.0000.00000.00047" reg="mostcommon:Jas,nomatch:0"><surname>Jas</surname></persName> S <persName n="Jackson,,,,," id="n-0001.0000.00000.00048" reg="mostcommon:Jackson,nomatch:0"><surname>Jackson</surname></persName>, <placeName reg="Perryville, Boyle, Kentucky" key="tgn,7017532">Perryville</placeName>; W K <persName n="Terrill,,,,," id="n-0001.0000.00000.00049" reg="mostcommon:Terrill,nomatch:0"><surname>Terrill</surname></persName>, <placeName reg="Perryville, Boyle, Kentucky" key="tgn,7017532">Perryville</placeName>; <persName n="Geo,,,,," id="n-0001.0000.00000.00050" reg="mostcommon:Geo,nomatch:0"><surname>Geo</surname></persName> D <persName n="Bayard,,,,," id="n-0001.0000.00000.00051" reg="mostcommon:Bayard,nomatch:0"><surname>Bayard</surname></persName>, <placeName reg="Fredericksburg, Fredericksburg, Virginia" key="tgn,7013943">Fredericksburg</placeName>; C F <persName n="Jackson,,,,," id="n-0001.0000.00000.00052" reg="mostcommon:Jackson,nomatch:0"><surname>Jackson</surname></persName>, <placeName reg="Fredericksburg, Fredericksburg, Virginia" key="tgn,7013943">Fredericksburg</placeName>; <persName><foreName>Joshua</foreName></persName> W <persName n="Sill,,,,," id="n-0001.0000.00000.00053" reg="mostcommon:Sill,nomatch:0"><surname>Sill</surname></persName>, <placeName reg="Stones River, Tennessee, United States" key="tgn,2696868">Stone river</placeName>; E N <persName n="Kirk,,,,," id="n-0001.0000.00000.00054" reg="mostcommon:Kirk,nomatch:0"><surname>Kirk</surname></persName>, <placeName reg="Stones River, Tennessee, United States" key="tgn,2696868">Stone river</placeName>; <persName n="Kirby,,Edmund,,," id="n-0001.0000.00000.00055" reg="default:Kirby,Edmund,,,"><foreName>Edmund</foreName> <surname>Kirby</surname></persName>, <placeName key="tgn,7017621" n="1.000 260" reg="chancellorsville, spotsylvania, virginia">Chancellorsville</placeName>; <persName n="Boomer,,Geo,,," id="n-0001.0000.00000.00056" reg="default:Boomer,Geo,,,"><foreName>Geo</foreName> <surname>Boomer</surname></persName>, <placeName reg="Vicksburg, Warren, Mississippi" key="tgn,7018023">Vicksburg</placeName>; <persName><foreName>Stephen</foreName></persName> H <persName n="Weed,,,,," id="n-0001.0000.00000.00057" reg="mostcommon:Weed,nomatch:0"><surname>Weed</surname></persName>, <placeName reg="Gettysburg, Adams, Pennsylvania" key="tgn,7014060">Gettysburg</placeName>; E J <persName n="Farnsworth,,,,," id="n-0001.0000.00000.00058" reg="mostcommon:Farnsworth,nomatch:0"><surname>Farnsworth</surname></persName>, <placeName reg="Gettysburg, Adams, Pennsylvania" key="tgn,7014060">Gettysburg</placeName>; S K <persName n="Zook,,,,," id="n-0001.0000.00000.00059" reg="mostcommon:Zook,nomatch:0"><surname>Zook</surname></persName>, <placeName reg="Gettysburg, Adams, Pennsylvania" key="tgn,7014060">Gettysburg</placeName>; <persName n="Geo,,,,," id="n-0001.0000.00000.00060" reg="mostcommon:Geo,nomatch:0"><surname>Geo</surname></persName> C Strong, <placeName reg="Morris Island, Charleston, South Carolina" key="tgn,2525074">Morris Island</placeName>; W H <persName n="Lytle,,,,," id="n-0001.0000.00000.00061" reg="mostcommon:Lytle,nomatch:0"><surname>Lytle</surname></persName>, <placeName reg="Chickamauga, Walker, Georgia" key="tgn,7013598">Chickamauga</placeName>. </p> 
+<p>
+
+<milestone unit="sentence" n="95"/> <hi rend="italics">Died.</hi>--Maj <persName n="Gens,,,,," id="n-0001.0000.00000.00062" reg="mostcommon:Gens,nomatch:0"><surname>Gens</surname></persName> C F <persName n="Smith,,,,," id="n-0001.0000.00000.00063" reg="mostcommon:Smith,W.,A.,J.,:1"><surname>Smith</surname></persName>, O M <persName n="Mitchell,,,,," id="n-0001.0000.00000.00064" reg="mostcommon:Mitchell,nomatch:0"><surname>Mitchell</surname></persName>, <persName n="Nelson,,Wm,,," id="n-0001.0000.00000.00065" reg="default:Nelson,Wm,,,"><foreName>Wm</foreName> <surname>Nelson</surname></persName>, E V <persName n="Sumner,,,,," id="n-0001.0000.00000.00066" reg="mostcommon:Sumner,nomatch:0"><surname>Sumner</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="96"/> <term type="ship">Brig</term> <rs type="ship">Gens</rs> J H <persName n="Helm,,,,," id="n-0001.0000.00000.00067" reg="mostcommon:Helm,nomatch:0"><surname>Helm</surname></persName>, R L <persName n="McCook,,,,," id="n-0001.0000.00000.00068" reg="mostcommon:McCook,nomatch:0"><surname>McCook</surname></persName>, F E <persName n="Patterson,,,,," id="n-0001.0000.00000.00069" reg="mostcommon:Patterson,nomatch:0"><surname>Patterson</surname></persName>, <persName n="Welsh,,Thos,,," id="n-0001.0000.00000.00070" reg="default:Welsh,Thos,,,"><foreName>Thos</foreName> <surname>Welsh</surname></persName>, C D <persName n="Jamison,,,,," id="n-0001.0000.00000.00071" reg="mostcommon:Jamison,nomatch:0"><surname>Jamison</surname></persName>, J B <persName n="Plummer,,,,," id="n-0001.0000.00000.00072" reg="mostcommon:Plummer,nomatch:0"><surname>Plummer</surname></persName>, <persName n="Cooper,,Jas,,," id="n-0001.0000.00000.00073" reg="default:Cooper,Jas,,,"><foreName>Jas</foreName> <surname>Cooper</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="97"/> <hi rend="italics">Resigned.</hi>--Maj-<persName n="Gens,,,,," id="n-0001.0000.00000.00074" reg="mostcommon:Gens,nomatch:0"><surname>Gens</surname></persName> E D <persName n="Morgan,,,,," id="n-0001.0000.00000.00075" reg="mostcommon:Morgan,William,C.,,:1"><surname>Morgan</surname></persName>, <persName n="Chas,,,,," id="n-0001.0000.00000.00076" reg="mostcommon:Chas,nomatch:0"><surname>Chas</surname></persName> S <persName n="Hamilton,,,,," id="n-0001.0000.00000.00077" reg="mostcommon:Hamilton,nomatch:0"><surname>Hamilton</surname></persName>, C M <persName n="Clay,,,,," id="n-0001.0000.00000.00078" reg="mostcommon:Clay,nomatch:0"><surname>Clay</surname></persName>, R J <persName n="Oglesby,,,,," id="n-0001.0000.00000.00079" reg="mostcommon:Oglesby,nomatch:0"><surname>Oglesby</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="98"/> Brig-<persName n="Gens,,,,," id="n-0001.0000.00000.00080" reg="mostcommon:Gens,nomatch:0"><surname>Gens</surname></persName> J W <persName n="Phelps,,,,," id="n-0001.0000.00000.00081" reg="mostcommon:Phelps,nomatch:0"><surname>Phelps</surname></persName>, C M <persName n="Thurston,,,,," id="n-0001.0000.00000.00082" reg="mostcommon:Thurston,nomatch:0"><surname>Thurston</surname></persName>, J W <persName n="Denver,,,,," id="n-0001.0000.00000.00083" reg="mostcommon:Denver,nomatch:0"><surname>Denver</surname></persName>, <persName n="Willis,,,,," id="n-0001.0000.00000.00084" reg="mostcommon:Willis,Charles,,,:1"><surname>Willis</surname></persName> A Gorman, <persName n="Craig,,Jas,,," id="n-0001.0000.00000.00085" reg="default:Craig,Jas,,,"><foreName>Jas</foreName> <surname>Craig</surname></persName>, T T <persName n="Crittenden,,,,," id="n-0001.0000.00000.00086" reg="mostcommon:Crittenden,nomatch:0"><surname>Crittenden</surname></persName>, A C <persName n="Harding,,,,," id="n-0001.0000.00000.00087" reg="mostcommon:Harding,nomatch:0"><surname>Harding</surname></persName>, M S <persName n="Wade,,,,," id="n-0001.0000.00000.00088" reg="mostcommon:Wade,nomatch:0"><surname>Wade</surname></persName>, Wm G <persName n="Campbell,,,,," id="n-0001.0000.00000.00089" reg="mostcommon:Campbell,nomatch:0"><surname>Campbell</surname></persName>, <persName n="Shields,,Jas,,," id="n-0001.0000.00000.00090" reg="default:Shields,Jas,,,"><foreName>Jas</foreName> <surname>Shields</surname></persName>, <persName n="Cochrane,,John,,," id="n-0001.0000.00000.00091" reg="default:Cochrane,John,,,"><foreName>John</foreName> <surname>Cochrane</surname></persName>, <persName n="Thos,,,,," id="n-0001.0000.00000.00092" reg="mostcommon:Thos,nomatch:0"><surname>Thos</surname></persName> F <persName n="Meagher,,,,," id="n-0001.0000.00000.00093" reg="mostcommon:Meagher,nomatch:0"><surname>Meagher</surname></persName>, <persName n="Leonard,,,,," id="n-0001.0000.00000.00094" reg="mostcommon:Leonard,nomatch:0"><surname>Leonard</surname></persName> F <persName n="Ross,,,,," id="n-0001.0000.00000.00095" reg="mostcommon:Ross,nomatch:0"><surname>Ross</surname></persName>, C C <persName n="Dodge,,,,," id="n-0001.0000.00000.00096" reg="mostcommon:Dodge,nomatch:0"><surname>Dodge</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="99"/> <hi rend="italics">Cashiered.</hi>--<persName n="Porter,,Maj-Gen,Fitzjohn,," id="n-0001.0000.00000.00097" reg="default:Porter,Maj-Gen,Fitzjohn,,"><foreName>Maj-Gen</foreName> <foreName>Fitzjohn</foreName> <surname>Porter</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="100"/> <hi rend="italics">Dismissed.</hi>--Brig-<persName n="Gen,,,,," id="n-0001.0000.00000.00098" reg="mostcommon:Gen,nomatch:0"><surname>Gen</surname></persName> J W <persName n="Revere,,,,," id="n-0001.0000.00000.00099" reg="mostcommon:Revere,nomatch:0"><surname>Revere</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="101"/> The following is a list of the <rs>Confederate Generals</rs> killed or died from wounds received in battle: </p> 
+<p>
+
+<milestone unit="sentence" n="102"/> General A S <persName n="Johnston,,,,," id="n-0001.0000.00000.00100" reg="mostcommon:Johnston,nomatch:0"><surname>Johnston</surname></persName>, <placeName reg="Shiloh, Hardin, Tennessee" key="tgn,2101495">Shiloh</placeName>; Lieut-<persName n="Gen,,,,," id="n-0001.0000.00000.00101" reg="mostcommon:Gen,nomatch:0"><surname>Gen</surname></persName> T J <persName n="Jackson,,,,," id="n-0001.0000.00000.00102" reg="mostcommon:Jackson,nomatch:0"><surname>Jackson</surname></persName>, <placeName key="tgn,7017621" n="1.000 260" reg="chancellorsville, spotsylvania, virginia">Chancellorsville</placeName>. </p> 
+<p>
+
+<milestone unit="sentence" n="103"/> <persName n="Robert,,Brigadier-Generals,,," id="n-0001.0000.00000.00103" reg="default:Robert,Brigadier-Generals,,,"><foreName>Brigadier-Generals</foreName> <surname>Robert</surname></persName> S <persName n="Garnett,,,,," id="n-0001.0000.00000.00104" reg="mostcommon:Garnett,nomatch:0"><surname>Garnett</surname></persName>, <placeName reg="Carrick's Ford">Carrick's Ford</placeName>; <persName n="Barnard,,,,," id="n-0001.0000.00000.00105" reg="mostcommon:Barnard,nomatch:0"><surname>Barnard</surname></persName> E <persName n="Bee,,,,," id="n-0001.0000.00000.00106" reg="mostcommon:Bee,nomatch:0"><surname>Bee</surname></persName>, <placeName reg="Bull Run, Prince William, Virginia" key="tgn,7013988">Bull Run</placeName>; F S <persName n="Bartow,,,,," id="n-0001.0000.00000.00107" reg="mostcommon:Bartow,nomatch:0"><surname>Bartow</surname></persName>, <placeName reg="Bull Run, Prince William, Virginia" key="tgn,7013988">Bull Run</placeName>; F K <persName n="Zollicoffer,,,,," id="n-0001.0000.00000.00108" reg="mostcommon:Zollicoffer,nomatch:0"><surname>Zollicoffer</surname></persName>, <placeName reg="Mill Spring, Grayson, Kentucky" key="tgn,2513860">Mill Spring</placeName>; <persName n="McCulloch,,Ben,,," id="n-0001.0000.00000.00109" reg="default:McCulloch,Ben,,,"><foreName>Ben</foreName> <surname>McCulloch</surname></persName>, <placeName reg="Pea Ridge, Benton, Arkansas" key="tgn,2009193">Pea Ridge</placeName>; <persName n="McIntosh,,James,,," id="n-0001.0000.00000.00110" reg="default:McIntosh,James,,,"><foreName>James</foreName> <surname>McIntosh</surname></persName>.
+
+<milestone unit="sentence" n="104"/><placeName reg="Pea Ridge, Benton, Arkansas" key="tgn,2009193">Pea Ridge</placeName>; A H Bradden, <placeName reg="Shiloh, Hardin, Tennessee" key="tgn,2101495">Shiloh</placeName>; T W <persName n="Ashby,,,,," id="n-0001.0000.00000.00111" reg="mostcommon:Ashby,nomatch:0"><surname>Ashby</surname></persName>, <placeName reg="Cross Keys, Rockingham, Virginia" key="tgn,2268788">Cross Keys</placeName>; <persName n="Hatton,,Robert,,," id="n-0001.0000.00000.00112" reg="default:Hatton,Robert,,,"><foreName>Robert</foreName> <surname>Hatton</surname></persName>, <placeName key="possibilities=15" n="1.000 10" reg=",">Fair Oaks</placeName>; <persName n="Griffith,,Richard,,," id="n-0001.0000.00000.00113" reg="default:Griffith,Richard,,,"><foreName>Richard</foreName> <surname>Griffith</surname></persName>, Chickahominy; (T G?) <persName n="Rhett,,,,," id="n-0001.0000.00000.00114" reg="mostcommon:Rhett,nomatch:0"><surname>Rhett</surname></persName>, Chickahominy; C S <persName n="Winder,,,,," id="n-0001.0000.00000.00115" reg="mostcommon:Winder,nomatch:0"><surname>Winder</surname></persName>, <placeName reg="Cedar Mountain, Culpeper, Virginia" key="tgn,2229381">Cedar Mountain</placeName>; R E <persName n="Garland,,,,," id="n-0001.0000.00000.00116" reg="mostcommon:Garland,nomatch:0"><surname>Garland</surname></persName>, <placeName reg="South Mountain, Rockbridge, Virginia" key="tgn,2681169">South Mountain</placeName>; L <placeName reg="O'B Branch">O'B Branch</placeName>, <placeName key="tgn,7016218" n="1.000 581" reg="antietam, washington, maryland">Antietam</placeName>; <persName n="Geo,,,,," id="n-0001.0000.00000.00117" reg="mostcommon:Geo,nomatch:0"><surname>Geo</surname></persName> B <persName n="Anderson,,,,," id="n-0001.0000.00000.00118" reg="mostcommon:Anderson,nomatch:0"><surname>Anderson</surname></persName>, do;--<persName n="Stark,,,,," id="n-0001.0000.00000.00119" reg="mostcommon:Stark,nomatch:0"><surname>Stark</surname></persName>, do; J T <persName n="Hughes,,,,," id="n-0001.0000.00000.00120" reg="mostcommon:Hughes,nomatch:0"><surname>Hughes</surname></persName>, <placeName reg="Lexington, Lexington, Virginia" key="tgn,7013889">Lexington</placeName>; Henry Little, <placeName reg="Inka">Inka</placeName>;--<persName n="Moore,,,,," id="n-0001.0000.00000.00121" reg="mostcommon:Moore,nomatch:0"><surname>Moore</surname></persName>,--<persName n="Martin,,,,," id="n-0001.0000.00000.00122" reg="mostcommon:Martin,nomatch:0"><surname>Martin</surname></persName>, <placeName key="tgn,7017649" n="1.000 1055" reg="corinth, alcorn, mississippi">Corinth</placeName>; <persName n="Gregg,,Maxey,,," id="n-0001.0000.00000.00123" reg="default:Gregg,Maxey,,,"><foreName>Maxey</foreName> <surname>Gregg</surname></persName>, T R R <persName n="Cobb,,,,," id="n-0001.0000.00000.00124" reg="mostcommon:Cobb,nomatch:0"><surname>Cobb</surname></persName>, Fred'g; J E <persName n="Rains,,,,," id="n-0001.0000.00000.00125" reg="mostcommon:Rains,nomatch:0"><surname>Rains</surname></persName>, <persName n="Hanson,,Roger,,," id="n-0001.0000.00000.00126" reg="default:Hanson,Roger,,,"><foreName>Roger</foreName> <surname>Hanson</surname></persName>, <placeName reg="Stones River, Tennessee, United States" key="tgn,2696868">Stone River</placeName>; E F <persName n="Paxton,,,,," id="n-0001.0000.00000.00127" reg="mostcommon:Paxton,nomatch:0"><surname>Paxton</surname></persName>, <placeName key="tgn,7017621" n="1.000 260" reg="chancellorsville, spotsylvania, virginia">Chancellorsville</placeName>; E D <persName n="Tracy,,,,," id="n-0001.0000.00000.00128" reg="mostcommon:Tracy,nomatch:0"><surname>Tracy</surname></persName>, <placeName reg="Port Gibson, Claiborne, Mississippi" key="tgn,2057281">Port Gibson</placeName>; L <persName n="Tilghman,,,,," id="n-0001.0000.00000.00129" reg="mostcommon:Tilghman,nomatch:0"><surname>Tilghman</surname></persName>, <placeName key="tgn,7017549" n="1.000 4" reg="champion hill, hinds, mississippi">Champion Hill</placeName>; <persName n="Martin,,,,," id="n-0001.0000.00000.00130" reg="mostcommon:Martin,nomatch:0"><surname>Martin</surname></persName> E <persName n="Green,,,,," id="n-0001.0000.00000.00131" reg="mostcommon:Green,nomatch:0"><surname>Green</surname></persName>, <placeName reg="Vicksburg, Warren, Mississippi" key="tgn,7018023">Vicksburg</placeName>; Wm D <persName n="Pender,,,,," id="n-0001.0000.00000.00132" reg="mostcommon:Pender,nomatch:0"><surname>Pender</surname></persName>, <persName><foreName>Richard</foreName></persName> B <persName n="Garnett,,,,," id="n-0001.0000.00000.00133" reg="mostcommon:Garnett,nomatch:0"><surname>Garnett</surname></persName>. --<persName n="Barksdale,,,,," id="n-0001.0000.00000.00134" reg="mostcommon:Barksdale,nomatch:0"><surname>Barksdale</surname></persName>, <persName n="Paul,,,,," id="n-0001.0000.00000.00135" reg="mostcommon:Paul,nomatch:0"><surname>Paul</surname></persName> J <persName n="Semmes,,,,," id="n-0001.0000.00000.00136" reg="mostcommon:Semmes,nomatch:0"><surname>Semmes</surname></persName>, <placeName reg="Gettysburg, Adams, Pennsylvania" key="tgn,7014060">Gettysburg</placeName>; J J <persName n="Pettigrew,,,,," id="n-0001.0000.00000.00137" reg="mostcommon:Pettigrew,nomatch:0"><surname>Pettigrew</surname></persName>, <placeName key="tgn,2118207" n="1.000 18" reg="falling waters, berkeley, west virginia">Falling Waters</placeName>; A E <persName n="Stein,,,,," id="n-0001.0000.00000.00138" reg="mostcommon:Stein,nomatch:0"><surname>Stein</surname></persName>, <placeName reg="Prairie Grove, Washington, Arkansas" key="tgn,2009301">Prairie Grove</placeName>; B H <persName n="Helm,,,,," id="n-0001.0000.00000.00139" reg="mostcommon:Helm,nomatch:0"><surname>Helm</surname></persName>, P <persName n="Smith,,,,," id="n-0001.0000.00000.00140" reg="nearbymention:Smith,W.,A.,J.,"><surname>Smith</surname></persName>, <placeName reg="Chickamauga, Walker, Georgia" key="tgn,7013598">Chickamauga</placeName>. </p> 
+<p>
+
+<milestone unit="sentence" n="105"/> <hi rend="italics">Died.</hi>--<rs type="role" reg="Major-General">Major-Gens.</rs> D E <persName n="Twiggs,,,,," id="n-0001.0000.00000.00141" reg="mostcommon:Twiggs,nomatch:0"><surname>Twiggs</surname></persName>, <persName n="Dorn,Earl,,,,Van" id="n-0001.0000.00000.00142" reg="mostcommon:Dorn,nomatch:0"><roleName n="Earl">Earl</roleName> <nameLink>Van</nameLink> <surname>Dorn</surname></persName>, J S <persName n="Bowen,,,,," id="n-0001.0000.00000.00143" reg="mostcommon:Bowen,nomatch:0"><surname>Bowen</surname></persName>, D R <persName n="Jones,,,,," id="n-0001.0000.00000.00144" reg="mostcommon:Jones,nomatch:0"><surname>Jones</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="106"/> Brig-<persName n="Gens,,,,," id="n-0001.0000.00000.00145" reg="mostcommon:Gens,nomatch:0"><surname>Gens</surname></persName> J B <persName n="Grayson,,,,," id="n-0001.0000.00000.00146" reg="mostcommon:Grayson,nomatch:0"><surname>Grayson</surname></persName>, P <placeName reg="Fort St">St</placeName> G <persName n="Cooke,,,,," id="n-0001.0000.00000.00147" reg="mostcommon:Cooke,nomatch:0"><surname>Cooke</surname></persName>, W D <persName n="Smith,,,,," id="n-0001.0000.00000.00148" reg="nearbymention:Smith,W.,A.,J.,"><surname>Smith</surname></persName>, <persName n="Daniel,,,,," id="n-0001.0000.00000.00149" reg="mostcommon:Daniel,nomatch:0"><surname>Daniel</surname></persName> S <placeName key="tgn,7017741" n="1.000 165" reg="fort donelson, stewart, tennessee">Donelson</placeName>, <persName><foreName>John</foreName></persName> B <persName n="Floyd,,,,," id="n-0001.0000.00000.00150" reg="mostcommon:Floyd,nomatch:0"><surname>Floyd</surname></persName>, T A Flournoy, J B <persName n="Villipigue,,,,," id="n-0001.0000.00000.00151" reg="mostcommon:Villipigue,nomatch:0"><surname>Villipigue</surname></persName>, J K <persName n="Duncan,,,,," id="n-0001.0000.00000.00152" reg="mostcommon:Duncan,nomatch:0"><surname>Duncan</surname></persName>, W H <persName n="Carroll,,,,," id="n-0001.0000.00000.00153" reg="mostcommon:Carroll,nomatch:0"><surname>Carroll</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="107"/> <hi rend="italics">Resigned.</hi>--<rs type="role2">Major</rs>-<persName n="Gens,,,,," id="n-0001.0000.00000.00154" reg="mostcommon:Gens,nomatch:0"><surname>Gens</surname></persName> M L <persName n="Bonham,,,,," id="n-0001.0000.00000.00155" reg="mostcommon:Bonham,nomatch:0"><surname>Bonham</surname></persName>, <persName n="Gus,,,,," id="n-0001.0000.00000.00156" reg="mostcommon:Gus,nomatch:0"><surname>Gus</surname></persName> A Smith, <persName><foreName>George</foreName></persName> B <persName n="Crittenden,,,,," id="n-0001.0000.00000.00157" reg="mostcommon:Crittenden,nomatch:0"><surname>Crittenden</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="108"/> Brig-<persName n="Gens,,,,," id="n-0001.0000.00000.00158" reg="mostcommon:Gens,nomatch:0"><surname>Gens</surname></persName> T T <persName n="Fauntleroy,,,,," id="n-0001.0000.00000.00159" reg="mostcommon:Fauntleroy,nomatch:0"><surname>Fauntleroy</surname></persName>, G W <persName n="Randolph,,,,," id="n-0001.0000.00000.00160" reg="mostcommon:Randolph,nomatch:0"><surname>Randolph</surname></persName>, S C <persName n="Anderson,,,,," id="n-0001.0000.00000.00161" reg="mostcommon:Anderson,nomatch:0"><surname>Anderson</surname></persName>, <placeName reg="Albert Pike">Albert Pike</placeName>, <persName n="Marshall,,Humphrey,,," id="n-0001.0000.00000.00162" reg="default:Marshall,Humphrey,,,"><foreName>Humphrey</foreName> <surname>Marshall</surname></persName>, H R <persName n="Jackson,,,,," id="n-0001.0000.00000.00163" reg="mostcommon:Jackson,nomatch:0"><surname>Jackson</surname></persName>, L T <persName n="Wigfall,,,,," id="n-0001.0000.00000.00164" reg="mostcommon:Wigfall,nomatch:0"><surname>Wigfall</surname></persName>, J R <persName n="Anderson,,,,," id="n-0001.0000.00000.00165" reg="mostcommon:Anderson,nomatch:0"><surname>Anderson</surname></persName>, <persName n="Toombs,,Robert,,," id="n-0001.0000.00000.00166" reg="default:Toombs,Robert,,,"><foreName>Robert</foreName> <surname>Toombs</surname></persName>, Rober A Pryor. </p> </div3> 
+<div3 type="article" n="6"> 
+<head type="nobreak" rend="smallcaps"><persName n="Chase,Secretary,,,," id="n-0001.0000.00000.00167" reg="mostcommon:Chase,nomatch:0"><roleName n="Secretary">Secretary</roleName> <surname>Chase</surname></persName> on foreign Affairs.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="109"/> --At the great <rs n="Republican" type="political">Republican</rs> meeting in <placeName reg="Cincinnati, Hamilton, Ohio" key="tgn,7013604">Cincinnati</placeName>, on <dateStruct value="---"><day type="name">Monday</day></dateStruct> <time>night</time>, <persName n="Chase,Secretary,,,," id="n-0001.0000.00000.00168" reg="mostcommon:Chase,nomatch:0"><roleName n="Secretary">Secretary</roleName> <surname>Chase</surname></persName> appeared.
+
+<milestone unit="sentence" n="110"/>He made a long speech, and alluded to foreign affairs in the following significant terms: </p> <cit><q rend="break"> 
+<p>
+
+<milestone unit="sentence" n="111"/> We are showing our strength to the nations of the earth, and if we simply go on showing our strength there will be no danger whatever of intervention.
+
+<milestone unit="sentence" n="112"/>There will be no danger, because it will not pay. [Cheers.] It is true that <placeName reg="United Kingdom" key="tgn,7002445">Great Britain</placeName> has behaved very unneighborly.
+
+<milestone unit="sentence" n="113"/>We used to think this great <rs n="Anglo-Saxon" type="group">Anglo-Saxon</rs> family was to stand together the world over to establish freedom of the press, freedom of the ballot-box, freedom of thought, freedom of speech, and freedom for all; but of late years we have seen manifestations of a very unkind and unfriendly spirit; and sometimes I have felt as if I wanted to take old mother <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName> by the hair and give her a mightily good shaking.
+
+<milestone unit="sentence" n="114"/>[Loud laughter and applause.] I am not sure that this is the wisest plan; but of this I feel tolerably sure, that <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName> will not send any more pirate ships out against us; and I think that when <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName> thinks the matter over calmly &mdash; when she reflects of the <rs>Alabama</rs>, fitted out in a British port, manned by <name>British</name> seamen, armed by <name>British</name> guns, and ever since roving over the seas, plundering merchant vessels, without bringing a single <num value="1">one</num> into any port &mdash; when they come to look over these things, they will conclude it is best to pay the <rs n="American" type="group">American</rs> merchants for all the pillage the <rs>Alabama</rs> has done.
+
+<milestone unit="sentence" n="115"/>[Loud cheers.] </p> </q><bibl n="Secretary Chase"></bibl></cit> 
+<p>
+
+<milestone unit="sentence" n="116"/> We have got a sort of new empire upon our borders in <placeName reg="Mexico, Mexico, North and Central America" key="tgn,1001893">Mexico</placeName>.
+
+<milestone unit="sentence" n="117"/>Well, gentlemen, I am not much disturbed about that.
+
+<milestone unit="sentence" n="118"/>Empires will not last long in <placeName reg="Central America" key="tgn,7016739">Central America</placeName>.
+
+<milestone unit="sentence" n="119"/>[Cheers.] I don't know how long this empire &mdash; if it gets born &mdash; will last.
+
+<milestone unit="sentence" n="120"/>There was an attempt to make an empire in <placeName reg="Mexico, Mexico, North and Central America" key="tgn,1001893">Mexico</placeName> some time ago, and, if I am not mistaken, was no great success.
+
+<milestone unit="sentence" n="121"/>I do not know that this Austrian Emperor will find his bed of roses there, but I am strongly inclined to think that the roses will be very few and the bed very hard.
+
+<milestone unit="sentence" n="122"/>[Cheers and loud laughter.] I am willing to trust to the future, and I am perfectly sure, taking all things into consideration, that the <rs n="European" type="group">European</rs> monarchs will, in the end, think it best to keep their institutions at home.
+
+<milestone unit="sentence" n="123"/>I am confident of this.
+
+<milestone unit="sentence" n="124"/>[Cheers.] I do not propose any particular measures just now. It is never wise to advance what you are going to do a great while in advance of doing it; but I think the time will come when the world will reconsider these things, and when this Republic of ours will be re-established from the <rs type="place">Gulf</rs> towards the <name>Pole</name>, and from the <rs>Atlantic</rs> to the <rs>Pacific</rs>, based upon freedom and free labor, gathering strength from our present contest, and rising from it grander than ever. </p> </div3> 
+<div3 type="article" n="7"> 
+<head type="nobreak" rend="smallcaps"><persName n="Thomas,Major-General,George,H.,," id="n-0001.0000.00000.00169" reg="default:Thomas,George,H.,,"><roleName n="Major-General">Major-Gen.</roleName> <foreName n="George">Geo.</foreName> <foreName>H.</foreName> <surname>Thomas</surname></persName>.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="125"/> --It has been already stated that this individual, who is now connected with <orgName n="army"><persName n="Rosecrans,,,,," id="n-0001.0000.00000.00170" reg="mostcommon:Rosecrans,nomatch:0"><surname>Rosecrans</surname></persName>'s army</orgName>, is a native of <placeName reg="Southampton, Virginia, United States" key="tgn,1002911">Southampton county, Va.</placeName> A lady who resides at <placeName key="possibilities=25" n="1.000 10" reg=",">Jerusalem</placeName>, the county seat of <placeName reg="Southampton, Hampshire, England" key="tgn,7011385">Southampton</placeName>, informs the editor of the <hi rend="italics"><orgName n="Spirit of the Age" type="newspaper">Spirit of the Age</orgName></hi> that <persName n="Thomas,,,,," id="n-0001.0000.00000.00171" reg="nearbymention:Thomas,George,H.,,"><surname>Thomas</surname></persName> distinguished himself in the war with <placeName reg="Mexico, Mexico, North and Central America" key="tgn,1001893">Mexico</placeName>, and on his return home was presented by the ladies of his native county with a handsome sword.--After the beginning of the present war, and <persName n="Thomas,,,,," id="n-0001.0000.00000.00172" reg="nearbymention:Thomas,George,H.,,"><surname>Thomas</surname></persName> had determined to array himself against the <rs>South</rs>, he wrote to his sister to send him that sword.
+
+<milestone unit="sentence" n="126"/>The true hearted, patriotic woman, replied that he could not have a sword presented by the women of <placeName reg="Virginia, United States, North and Central America" key="tgn,7007919">Virginia</placeName> to turn against their brave fathers, sons, and brothers, who were fighting in defence of the land whose birth-place he had disgraced, and that instead of sending the sword to him she would prefer seeing it thrust through his traitorous heart. --<hi rend="italics"><placeName reg="Petersburg, Petersburg, Virginia" key="tgn,7014404">Petersburg (Va.)</placeName> Express.</hi> </p> </div3> 
+<div3 type="article" n="8"> 
+<head type="nobreak" rend="smallcaps">Aiding the poor.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="127"/> --The wealthy citizens of <placeName reg="Selma, Dallas, Alabama" key="tgn,2005248">Selma, Ala.</placeName>, have taken a step in the right direction to aid the poor and the mechanics.
+
+<milestone unit="sentence" n="128"/>At a late meeting <persName n="Weaver,Mister,,,," id="n-0001.0000.00000.00173" reg="mostcommon:Weaver,nomatch:0"><roleName n="Mister">a Mr.</roleName> <surname>Weaver</surname></persName> contributed <measure n="17acres" type="area">seventeen acres</measure> of land and <measure n="8000dollars" type="currency">$8000</measure> to build houses.
+
+<milestone unit="sentence" n="129"/>A large additional amount in cash was also subscribed, and <measure n="6000l." type="pounds"><num value="6000">six thousand</num> pounds</measure> of bacon offered at <measure n="1dollars" type="currency">one dollar</measure> per pound, and a large quantity of corn at <measure n="1dollars" type="currency">one dollar</measure> per bushel. </p> </div3> </div2> <milestone unit="column" n="6"/> 
+<div2 type="local"> 
+<head>Local matters.</head> 
+<div3 type="article" n="1"> 
+<head type="nobreak" rend="italics">Firing at a deserter.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="130"/> --Yesterday morning a soldier giving his name as <persName n="Seagul,,William,S.,," id="n-0001.0000.00000.00174" reg="default:Seagul,William,S.,,"><foreName n="William">Wm.</foreName> <foreName>S.</foreName> <surname>Seagul</surname></persName>, was arraigned before the <rs>Mayor</rs> to answer the charge of firing his musket at <persName n="Walyard,,Lewis,,," id="n-0001.0000.00000.00175" reg="default:Walyard,Lewis,,,"><foreName>Lewis</foreName> <surname>Walyard</surname></persName>, a fleeing deserter, in the public streets, thereby endangering the lives of persons passing.
+
+<milestone unit="sentence" n="131"/>The accused, on leaving <placeName reg="Petersburg, Petersburg, Virginia" key="tgn,7014404">Petersburg</placeName>, was put in charge of <num value="2">two</num> deserters, with orders to deliver them to the military authorities in this city.
+
+<milestone unit="sentence" n="132"/>After the cars arrived here he started to <placeName><persName n="Winder,General,,,," id="n-0001.0000.00000.00176" reg="mostcommon:Winder,nomatch:0"><roleName n="General">Gen.</roleName> <surname>Winder</surname></persName>'s office</placeName> with his prisoners, but had gone only a short distance when <num value="1">one</num> of them broke and run, making his escape.
+
+<milestone unit="sentence" n="133"/>On nearing <address><street n="Broad Street">Broad</street></address> and <address><street n="7 Street">7th streets</street></address> the other deserter dashed off, and Seagul fired at him, but without striking him. The fugitive, however, was captured, and both he and Seagul taken in charge by the police.
+
+<milestone unit="sentence" n="134"/>The <rs>Mayor</rs> sent both parties to the <rs type="role" reg="Provost Marshal">Provost Marshal</rs>, with the request that all military guards be prevented from shooting at deserters in the public streets.
+
+<milestone unit="sentence" n="135"/>Rather than hazard the lives of innocent parties it would be better to handcuff or tie deserters when passing through the streets, and thus save the necessity of shooting at them.
+
+<milestone unit="sentence" n="136"/>A gentleman who was passing along at the time <rs>Seagul</rs> fired his musket, asserts that the <name>Sall</name> actually touched the hair on his head.
+
+<milestone unit="sentence" n="137"/>Had he been killed the guard would have been guilty of murder in the <num value="1" type="ordinal">first</num> degree, and might have been hanged for the offence. </p> </div3> 
+<div3 type="article" n="2"> 
+<head type="nobreak" rend="italics">Unlawful gaming.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="138"/> --The police on <dateStruct value="---"><day type="name">Tuesday</day></dateStruct> <time>night</time> last made a descent on several houses heretofore kept as fashionable gaming establishments, but made no arrests save in <rs n="Corinthian" type="ethnic">Corinthian</rs> <persName n="Hall,,,,," id="n-0001.0000.00000.00177" reg="mostcommon:Hall,nomatch:0"><surname>Hall</surname></persName>, where a party were playing bluff, using ivory chips as counters.
+
+<milestone unit="sentence" n="139"/>This party, with <persName n="Worsham,,John,A.,," id="n-0001.0000.00000.00178" reg="default:Worsham,John,A.,,"><foreName>John</foreName> <foreName>A.</foreName> <surname>Worsham</surname></persName>, the proprietor, and <num value="6">six</num> servants, employed in the house, were taken into custody, and after a partial hearing, were admitted to bail to answer before the <rs>Mayor</rs> to-morrow.
+
+<milestone unit="sentence" n="140"/>The officers then searched the house thoroughly and discovered several packs of cards and a number of ivory checks, but no faro box, spread, or any other portion of the usual paraphernalia incident to the game of faro.
+
+<milestone unit="sentence" n="141"/>They also took charge of the house and furniture, by order of the <rs>Mayor</rs>, and will hold it until he has had an opportunity of thoroughly examining the new &#x0022;gaming act&#x0022; in all its bearings upon this case.
+
+<milestone unit="sentence" n="142"/>Profitable as gaming has been, those who undertake to carry it on under the present law will find it a hazardous business.
+
+<milestone unit="sentence" n="143"/>The police have ample powers to enter suspected houses, and they will always find ready informers to aid them in the execution of a law which promises to pay so well. </p> </div3> 
+<div3 type="article" n="3"> 
+<head type="nobreak" rend="italics"><placeName reg="Mayor's Court">Mayor's Court</placeName>.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="144"/> --The <rs>Mayor</rs>'s docket yesterday morning was a long <num value="1">one</num>, and occupied several hours in being disposed of. We present the cases as they came up: </p> 
+<p>
+
+<milestone unit="sentence" n="145"/> <persName><foreName>Sam</foreName></persName>, slave to <persName n="Woodward,,R.,G.,," id="n-0001.0000.00000.00179" reg="default:Woodward,R.,G.,,"><foreName>R.</foreName> <foreName>G.</foreName> <surname>Woodward</surname></persName>, arrested for going at large, was examined and sent on to the <orgName n="Hustings Court" type="court">Hustings Court</orgName>. </p> 
+<p>
+
+<milestone unit="sentence" n="146"/> <persName n="Keenan,,James,,," id="n-0001.0000.00000.00180" reg="default:Keenan,James,,,"><foreName>James</foreName> <surname>Keenan</surname></persName>, for assaulting <persName><foreName>John</foreName></persName> A Gorman, breaking the windows of <placeName><persName n="Sinnott,Mrs.,,,," id="n-0001.0000.00000.00181" reg="mostcommon:Sinnott,nomatch:0"><roleName n="Mrs.">Mrs.</roleName> <surname>Sinnott</surname></persName>'s house</placeName> with a stone, and being a deserter, was examined and committed to prison in default of bail.
+
+<milestone unit="sentence" n="147"/><persName><foreName>John</foreName></persName> had been indulging in the use of bad spirits, and there fore his desire to annihilate everything that came in his way. Calm reflection in the cottage under the hill may make him repent of his follies. </p> 
+<p>
+
+<milestone unit="sentence" n="148"/> Thomas Freely, for-being very drunk and disorderly, was held to bail for better behavior. </p> 
+<p>
+
+<milestone unit="sentence" n="149"/> <persName n="Essex,,,,," id="n-0001.0000.00000.00182" reg="mostcommon:Essex,nomatch:0"><surname>Essex</surname></persName> and <persName><foreName>Ralph</foreName></persName>, <num value="2">two</num> negroes employed in the <rs>Manchester</rs> cotton factory, were called to the bar for having relieved the mill of several pieces of valuable cloth, which they were taking to a wayside customer when captured.
+
+<milestone unit="sentence" n="150"/>After telling a variety of stories as to how they came into possession of the goods, they finally owned up to have stolen it from the mills.
+
+<milestone unit="sentence" n="151"/>Their examination was adjourned till this morning. </p> </div3> 
+<div3 type="article" n="4"> 
+<head type="nobreak" rend="italics"><rs n="Yankee" type="group">Yankee</rs> money.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="152"/> --The <rs type="role" reg="Secretary of War">Secretary of War</rs>, <persName n="Seddon,the Honorable,James,A.,," id="n-0001.0000.00000.00183" reg="default:Seddon,James,A.,,"><roleName n="the Honorable">Hon.</roleName> <foreName>James</foreName> <foreName>A.</foreName> <surname>Seddon</surname></persName>, has given <persName n="Winder,General,,,," id="n-0001.0000.00000.00184" reg="mostcommon:Winder,nomatch:0"><roleName n="General">General</roleName> <surname>Winder</surname></persName> the following order respecting money sent to the <name>Abolition</name> prisoners now confined in this city.
+
+<milestone unit="sentence" n="153"/>It reads thus: </p> <cit><q rend="break"> 
+<p>
+
+<milestone unit="sentence" n="154"/> &#x0022;You will hand over such gold as may be sent to the prisoners, announcing to them that, being money recognized by both Governments, it is handed to them in kind, and that if at any time they wish to convert it into Confederate money, it will be sold for them, on application, at the market price in this city.
+
+<milestone unit="sentence" n="155"/>If the amount received be in the <rs>Federal</rs> paper, it cannot be handed over to them in kind, as it is not recognized as money by the <orgName n="Confederate Government" type="org">Confederate Government</orgName>, nor can its use or circulation be allowed; but it will at their option be converted, at current rate of exchange, into Confederate notes, and such notes delivered to them, or will be retained in kind for their future use.&#x0022; </p> </q><bibl n="Hon. James A. Seddon"></bibl></cit> </div3> 
+<div3 type="article" n="5"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="156"/> <hi rend="italics">Negro Hackmen</hi> are receiving the special attention of the police, and for their ordinance violations will be soundly punished.--On <dateStruct value="---"><day type="name">Tuesday</day></dateStruct> <time>night</time> last, at a late hour, the <rs>Mayor</rs>'s <orgName type="mil" key="MountedGuard">Mounted Guard</orgName> discovered <num value="2">two</num> hacks, driven by <persName n="Andrew,,,,," id="n-0001.0000.00000.00185" reg="mostcommon:Andrew,nomatch:0"><surname>Andrew</surname></persName> and <persName><foreName>Henry</foreName></persName>, filled with slaves, who had been into the country on a frolic, and, as none of them had written permissions, both drivers and passengers were deposited in the lock-up.
+
+<milestone unit="sentence" n="157"/>Yesterday morning the entire party were brought before the <rs>Mayor</rs>, and after a hearing were sentenced to the lash. </p> </div3> 
+<div3 type="article" n="6"> 
+<head type="nobreak" rend="italics">Masonic.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="158"/> --The members of the <name>Masonic</name> fraternity at <placeName reg="Drewry's Bluff, Chesterfield, Virginia" key="tgn,2295265">Drewry's Bluff</placeName> have organized a Lodge (<placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">James River</placeName> <persName n="Lodge,,,,," id="n-0001.0000.00000.00186" reg="mostcommon:Lodge,nomatch:0"><surname>Lodge</surname></persName>, <num value="206">No. 206</num>). The communications of the <rs type="place">Lodge</rs> are to be held on the <num value="4" type="ordinal">fourth</num> Saturday in every month.
+
+<milestone unit="sentence" n="159"/>The following are the officers chosen: <persName n="Morgan,,William,C.,," id="n-0001.0000.00000.00187" reg="default:Morgan,William,C.,,"><foreName n="William">Wm.</foreName> <foreName>C.</foreName> <surname>Morgan</surname></persName>, W. M.; <persName n="Creekmur,,C.,J.,," id="n-0001.0000.00000.00188" reg="default:Creekmur,C.,J.,,"><foreName>C.</foreName> <foreName>J.</foreName> <surname>Creekmur</surname></persName>, S. W.; <persName n="Jarvis,,Thomas,,," id="n-0001.0000.00000.00189" reg="default:Jarvis,Thomas,,,"><foreName n="Thomas">Thos.</foreName> <surname>Jarvis</surname></persName>, J. W.; <persName n="Albright,,E.,,," id="n-0001.0000.00000.00190" reg="default:Albright,E.,,,"><foreName>E.</foreName> <surname>Albright</surname></persName>, <rs type="role2">Secretary</rs>; <persName n="Elliott,,S.,C.,," id="n-0001.0000.00000.00191" reg="default:Elliott,S.,C.,,"><foreName>S.</foreName> <foreName>C.</foreName> <surname>Elliott</surname></persName>, Treasurer; <persName n="Cameron,Lieutenant,,,," id="n-0001.0000.00000.00192" reg="mostcommon:Cameron,nomatch:0"><roleName n="Lieutenant">Lieut.</roleName> <surname>Cameron</surname></persName>, S. D.; <persName n="Gwynn,Lieutenant,,,," id="n-0001.0000.00000.00193" reg="mostcommon:Gwynn,nomatch:0"><roleName n="Lieutenant">Lieut.</roleName> <surname>Gwynn</surname></persName>, J. D.; <persName n="Thomas,,J.,H.,," id="n-0001.0000.00000.00194" reg="default:Thomas,J.,H.,,"><foreName>J.</foreName> <foreName>H.</foreName> <surname>Thomas</surname></persName>, <persName n="Tyler,,,,," id="n-0001.0000.00000.00195" reg="mostcommon:Tyler,nomatch:0"><surname>Tyler</surname></persName>. </p> </div3> 
+<div3 type="article" n="7"> 
+<head type="nobreak" rend="italics">Court-room needed.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="160"/> --<persName n="Halyburton,Judge,,,," id="n-0001.0000.00000.00196" reg="mostcommon:Halyburton,nomatch:0"><roleName n="Judge">Judge</roleName> <surname>Halyburton</surname></persName>, of the <rs>C. S. Court</rs>, has no fixed place at present for the transaction of public business.
+
+<milestone unit="sentence" n="161"/>He is now occupying a room in the <placeName reg="State Court-House">State Court-House</placeName>, but <persName n="Gregory,Judge,,,," id="n-0001.0000.00000.00197" reg="mostcommon:Gregory,nomatch:0"><roleName n="Judge">Judge</roleName> <surname>Gregory</surname></persName>, of the <rs>Henrico Circuit</rs>, will need that in a few days for his fall term.
+
+<milestone unit="sentence" n="162"/>It is not improbable that the action of the <name>Legislature</name> will cause some of the fine rooms on <address><street n="Main street">Main street</street></address>, now used for illegal purposes, to be vacated, at once, and in that event <rs type="role2">Judge</rs> H. may find good accommodations in the central part of the city. </p> </div3> 
+<div3 type="article" n="8"> 
+<head type="nobreak" rend="italics">The city Pumps</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="163"/> --certainly affairs of great public convenience &mdash; are wantonly abused by boys, who fill the spouts with stones and sticks, and resort to other means to unfit them for service.
+
+<milestone unit="sentence" n="164"/>The police should keep an eye to these young ruffians, and punish them.
+
+<milestone unit="sentence" n="165"/>The pump near the <rs type="place">Central Depot</rs>, where large numbers of soldiers resort for water, has not been in working order for several weeks.
+
+<milestone unit="sentence" n="166"/>The Engineer of the city will confer a public blessing by having it speedily repaired. </p> </div3> 
+<div3 type="article" n="9"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="167"/> <hi rend="italics">Pasturage</hi> may be had on the <rs type="place">Chickahominy swamps</rs> for the hundreds of Government mules now in the city, consuming the long forage that may be needed for the army.
+
+<milestone unit="sentence" n="168"/>Along the <orgName n="York River Railroad" type="railroad">York River Railroad</orgName> there are scores of acres of land covered with coarse grass that would furnish mule forage for weeks at little or no cost.
+
+<milestone unit="sentence" n="169"/>This forage, unless thus used, will be wasted, because farmers have not hands to save it. </p> </div3> 
+<div3 type="article" n="10"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="170"/> <hi rend="italics">Old Iron</hi> is in demand at this time, and would pay well the trouble of collecting it on the battle-fields around <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>, and sending it to the foundries.
+
+<milestone unit="sentence" n="171"/>A gentleman residing in the lower end of <placeName key="tgn,1002713" n="1.000 12" reg="new kent, virginia, united states">New Kent county</placeName> thinks that <num value="1000">thousands</num> of pounds could readily be gathered in the neighborhood of the <placeName reg="Tunstall, New Kent, Virginia" key="tgn,7014664">White House</placeName>, if any <num value="1">one</num> would undertake the task. </p> </div3> 
+<div3 type="article" n="11"> 
+<head type="nobreak" rend="italics"><orgName n="Hustings Court" type="court">Hustings Court</orgName>, <persName n="Lyons,Judge,,,," id="n-0001.0000.00000.00198" reg="mostcommon:Lyons,nomatch:0"><roleName n="Judge">Judge</roleName> <surname>Lyons</surname></persName>.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="172"/> --Yesterday was fixed for the trial of <persName n="Scott,,John,C.,," id="n-0001.0000.00000.00199" reg="default:Scott,John,C.,,"><foreName>John</foreName> <foreName>C.</foreName> <surname>Scott</surname></persName>, charged with murder; but owing to the absence of witnesses the cause was continued.
+
+<milestone unit="sentence" n="173"/>The <rs>Judge</rs> will sit to-day, as usual.
+
+<milestone unit="sentence" n="174"/>His labors are never-ending, and will eventually break him down if he is not temporarily relieved. </p> </div3> 
+<div3 type="article" n="12"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="175"/> <hi rend="italics"><persName n="Halyburton,Judge,,,," id="n-0001.0000.00000.00200" reg="mostcommon:Halyburton,nomatch:0"><roleName n="Judge">Judge</roleName> <surname>Halyburton</surname></persName></hi> yesterday spent the session of his Court in hearing and disposing of <hi rend="italics">habeas corpus</hi> cases.
+
+<milestone unit="sentence" n="176"/>None of them were of any public interest. </p> </div3> 
+<div3 type="article" n="13"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="177"/> <hi rend="italics">Bogus Substitute Papers</hi> are being gathered up by the officers, and holders thereof will soon find themselves on their way to the army. </p> </div3> <milestone unit="column" n="7"/> 
+<div3 type="article" n="14"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="178"/> <hi rend="italics">The Polls</hi> will be opened in the <num value="3">three</num> wards of the city, at the usual places, this morning at <time value="8oclock">8 o'clock</time>, thus giving every voter on opportunity to say whether he is for or against the passage of a maximum bill by the <orgName n="Virginia Legislature" type="legislature">Legislature of Virginia</orgName>.
+
+<milestone unit="sentence" n="179"/>Every voter should attend and let his voice be heard on this all important question. </p> </div3> 
+<div3 type="article" n="15"> 
+<head type="nobreak" rend="italics">Arrival of wounded.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="180"/> --Yesterday the <rs>Central</rs> train brought down a number of our gallant soldiers, who were wounded near <orgName n="Bristow Station" type="station">Bristow Station</orgName> in their late chase after the &#x0022;fastest running army on the planet.&#x0022;--Though fatigued and worn down by their sufferings, after a long run after the skedaddling <rs n="Yankee" type="group">Yankees</rs>, they are all in fine spirits, and most of them will soon be ready to participate in another grand hunt for the miscreant enemies of Southern soil. </p> </div3> 
+<div3 type="article" n="16"> 
+<head type="nobreak" rend="italics">Wounded <rs n="Yankee" type="group">Yankees</rs>.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="181"/> --A number of wounded <rs n="Yankee" type="group">Yankees</rs>, captured by our forces in their late race after the fleet footed <persName n="Meade,,,,," id="n-0001.0000.00000.00201" reg="mostcommon:Meade,nomatch:0"><surname>Meade</surname></persName> and his cohorts, arrived in this city yesterday, and were escorted to the lock-up prepared for their reception. </p> </div3> 
+<div3 type="article" n="17"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="182"/> <hi rend="italics">Railings</hi> are very much needed at the <name>east</name> and <name>west</name> ends of the <placeName reg="Broad River, South Carolina, United States" key="tgn,2195763">Broad</placeName> street culvert, to prevent persons from falling over the embankments at night and killing themselves.
+
+<milestone unit="sentence" n="183"/>Some few evenings since a crippled soldier fell over this embankment and was very much bruised.
+
+<milestone unit="sentence" n="184"/>By the expenditure of a few dollars the city may save some valuable life. </p> </div3> 
+<div3 type="article" n="18"> 
+<head type="nobreak" rend="italics">Mending streets.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="185"/> --The Commissioners have as much as they can attend to if they put the streets in passable order between now and winter.
+
+<milestone unit="sentence" n="186"/>The city has her hands full to attend to the poor, but unless the streets are put in passable order it will be impossible to haul food and fuel to them. </p> </div3> 
+<div3 type="article" n="19"> 
+<head type="nobreak" rend="italics">Much needed.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="187"/> --The market clerks are sorely pressed every morning with their labors, and ought to be assisted by <num value="1">one</num> or more sober, intelligent policemen in their efforts to enforce the ordinance.
+
+<milestone unit="sentence" n="188"/>Some of the hucksters are so sly in their purchases that <num value="1">one</num> man cannot possibly keep an eye to them. </p> </div3> 
+<div3 type="article" n="20"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="189"/> <hi rend="italics">The <rs type="place">City</rs> Jail</hi> is crowded with prisoners of every kind, and is exceedingly insecure; so much so that the jailor and his guards have to keep constantly on the alert to prevent escapes. </p> </div3> 
+<div3 type="article" n="21"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="190"/> <hi rend="italics">Dragging for Torpedoes</hi> is now the favorite employment of the <rs n="Yankee" type="group">Yankee</rs> gunboats in <placeName key="tgn,7017623" n="1.000 8" reg="york, virginia, united states">York river</placeName>.
+
+<milestone unit="sentence" n="191"/>Last week the crews of <num value="2">two</num> vessels were earnestly engaged, but did not discover enough to pay them for their labor. </p> </div3> </div2> 
+<div2 type="telegraphic"> 
+<head>Telegraphic News.</head> 
+<div3 type="article" n="1"> 
+<head>From <placeName reg="Mississippi, United States, North and Central America" key="tgn,7007522">Mississippi</placeName>.</head> <opener> <dateline> <placeName reg="Meridian, Lauderdale, Mississippi" key="tgn,2056956">Meridian, Miss.</placeName>, <dateStruct value="-10-20"><month reg="10">Oct.</month> <day reg="20">20</day></dateStruct>. </dateline> </opener> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="192"/> --Official information states that the <rs n="Yankee" type="group">Yankees</rs> are rapidly retreating to Big Black, and are being pursued by our cavalry.
+
+<milestone unit="sentence" n="193"/>On their retreat <num value="1">one</num> regiment of the enemy entered <placeName reg="Clinton, East Feliciana, Louisiana" key="tgn,2042539">Clinton</placeName> and burned some houses. </p> 
+<p>
+
+<milestone unit="sentence" n="194"/> In the late fight our cavalry made a very stubborn resistance.
+
+<milestone unit="sentence" n="195"/>The conduct of <persName n="Adams,General,Wirt,,," id="n-0001.0000.00000.00202" reg="default:Adams,Wirt,,,"><roleName n="General">Gen.</roleName> <foreName>Wirt</foreName> <surname>Adams</surname></persName> in this engagement is highly spoken of. The loss on either side is not reported. </p> 
+<p>
+
+<milestone unit="sentence" n="196"/> <persName n="Davis,President,,,," id="n-0001.0000.00000.00203" reg="mostcommon:Davis,nomatch:0"><roleName n="President">President</roleName> <surname>Davis</surname></persName> left this afternoon for Enterprise. </p> 
+<p>
+
+<milestone unit="sentence" n="197"/> <num value="125">One hundred and twenty-five</num> <rs n="Yankee" type="group">Yankee</rs> prisoners arrived here last night, going East.
+
+<milestone unit="sentence" n="198"/>They were captured by <persName n="Chalmers,General,,,," id="n-0001.0000.00000.00204" reg="mostcommon:Chalmers,nomatch:0"><roleName n="General">General</roleName> <surname>Chalmers</surname></persName>. </p> </div3> 
+<div3 type="article" n="2"> 
+<head>From <placeName reg="Charleston, Charleston, South Carolina" key="tgn,7013582">Charleston</placeName>.</head> <opener> <dateline> <placeName reg="Charleston, Charleston, South Carolina" key="tgn,7013582">Charleston</placeName>, <dateStruct value="-10-21"><month reg="10">Oct.</month> <day reg="21">21st</day></dateStruct>. </dateline> </opener> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="199"/> --The Congressional elections passed off quietly yesterday.
+
+<milestone unit="sentence" n="200"/>There being no opposition to <persName n="Miles,the Honorable,William,Porcher,," id="n-0001.0000.00000.00205" reg="default:Miles,William,Porcher,,"><roleName n="the Honorable">Hon.</roleName> <foreName n="William">Wm.</foreName> <foreName>Porcher</foreName> <surname>Miles</surname></persName> in the <orgName type="district" n="district 2">2d district</orgName>, he was unanimously re-elected. </p> 
+<p>
+
+<milestone unit="sentence" n="201"/> Affairs as usual at the batteries. </p> 
+<div4 type="entry" n="1"> 
+<head>[<num value="2" type="ordinal">second</num> Dispatch.]</head> <opener> <dateline> <placeName reg="Charleston, Charleston, South Carolina" key="tgn,7013582">Charleston</placeName>, <dateStruct value="-10-21"><month reg="10">Oct.</month> <day reg="21">21</day></dateStruct>. </dateline> </opener> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="202"/> --A reconnoitering party of the enemy, in barges, was discovered near <placeName key="tgn,7013582" n="1.000 46" reg="charleston, charleston, south carolina">Fort Sumter</placeName> last night, between <time value="12">12</time> and <time value="1oclock">1 o'clock</time>, and driven off with grape-shot. </p> 
+<p>
+
+<milestone unit="sentence" n="203"/> No change at the batteries.
+
+<milestone unit="sentence" n="204"/><rs n="Yankee" type="group">Yankee</rs> officers on horseback were observed to-day inspecting the works on <placeName reg="Morris Island, Charleston, South Carolina" key="tgn,2525074">Morris Island</placeName>. </p> </div4> </div3> 
+<div3 type="article" n="3"> 
+<head>From <placeName key="tgn,2111971" n="1.000 34" reg="gordonsville, orange, virginia">Gordonsville</placeName>.</head> <opener> <dateline> <placeName key="tgn,2111971" n="1.000 34" reg="gordonsville, orange, virginia">Gordonsville</placeName>, <dateStruct value="-10-21"><month reg="10">Oct.</month> <day reg="21">21</day></dateStruct>. </dateline> </opener> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="205"/> --Everything appears quiet in front to-day.
+
+<milestone unit="sentence" n="206"/>Most of the prisoners who went through here to <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName> last night were foreigners, and expressed themselves as tired of the war. Many of them wanted to take the oath of allegiance. </p> 
+<p>
+
+<milestone unit="sentence" n="207"/> It is reported that <persName n="Imboden,General,,,," id="n-0001.0000.00000.00206" reg="mostcommon:Imboden,nomatch:0"><roleName n="General">Gen.</roleName> <surname>Imboden</surname></persName> has taken <measure n="700" type="prisoners">700 prisoners</measure> at <placeName key="tgn,7017708" n="1.000 36" reg="winchester, winchester, virginia">Kernstown</placeName>. </p> </div3> </div2> </div1> 
+<div1 type="notices"> 
+<head></head> 
+<div2 type="millinery"> 
+<head>Millinery and Dress making.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="208"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="educational"> 
+<head>Educational.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="209"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> </div1> <milestone unit="page" n="2"/> 
+<div1 type="page-image"> 
+<head></head> 
+<p><figure entity="NW_RichTimesD_025_096_002"> <figDesc>Page image of Daily Dispatch, Volume <num value="25">25</num>, <num value="96">Number 96</num>, <ref n="page 2">page 2</ref>. </figDesc> </figure></p> </div1> <milestone unit="column" n="1"/> 
+<div1 type="notices"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName>.</head> 
+<div2 type="morning"> 
+<head><date value="1863-10-22">Thursday morning...October 22, 1863.</date></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="210"/> <!-- &advertid; --> </p> </div3> </div2> </div1> 
+<div1 type="news"> 
+<head></head> 
+<div2> 
+<head></head> 
+<div3 type="article" n="1"> 
+<head type="nobreak" rend="smallcaps">To the <name>Polls</name>!
+
+<milestone unit="sentence" n="211"/>to the <name>Polls</name>!</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="212"/> --To-day is the day fixed by the <name>Council</name> for deciding by a vote of the people the question of instructions to our <rs type="role2">Senators</rs> and Delegates to vote for or against the <hi rend="italics">maximum bill.</hi> It is a question of momentous importance, absolutely involving the issues of famine or plenty to this city.
+
+<milestone unit="sentence" n="213"/>The <num value="1" type="ordinal">first</num> effect of fixing the price of the necessaries of life will be to cut off the supply.
+
+<milestone unit="sentence" n="214"/>Even now, under the operation of the millers' maximum, wheat reaches the city in the smallest possible quantities, and flour has jumped at a single bound to <measure n="75dollars" type="currency">seventy-five dollars</measure>. The millers have it in their power at any time to correct the evil by removing the restriction.
+
+<milestone unit="sentence" n="215"/>But if the <placeName reg="Legislature">Legislature</placeName> pass this law, and then adjourn, we shall have to endure all the miseries of a prolonged famine, and all the evils it never fails to bring in its train.
+
+<milestone unit="sentence" n="216"/>The fixing of a <hi rend="italics">maximum</hi> price upon manufactures will inevitably close every establishment of that character, and drive every artizan and mechanic from the city to other localities beyond the <rs>State</rs>, where higher prices are given, and there is no maximum to interfere with the reward of labor.
+
+<milestone unit="sentence" n="217"/>If the manufacturers be compelled to work at fixed wages, and those wages reduced to meet the reduction in the price of manufactured goods.
+
+<milestone unit="sentence" n="218"/>Capital will at once leave the <rs>State</rs> to seek employment elsewhere.
+
+<milestone unit="sentence" n="219"/>We shall then be a city without food, without capital, without manufactured goods, without employment for our mechanics and laboring people, and all this upon the threshold of a winter, which, for aught we know, may be unusually severe. </p> 
+<p>
+
+<milestone unit="sentence" n="220"/> Fellow-citizens of <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>, there never was a time when it more especially behooved every voter who does not wish to plunge his city into unheard-of calamities to go to the polls.
+
+<milestone unit="sentence" n="221"/>Let us hope that there are none disposed to play the laggard on this occasion.
+
+<milestone unit="sentence" n="222"/>That the majority &mdash; the large majority &mdash; see the fatal tendency of this bill, we have not a doubt.
+
+<milestone unit="sentence" n="223"/>But the revolutionary spirit of those who propose it is in full activity.
+
+<milestone unit="sentence" n="224"/>Those who are desirous to accomplish a particular object are in general more active than those who desire to defeat it. We trust it may be otherwise on this occasion.
+
+<milestone unit="sentence" n="225"/>We trust that every man opposed to this most mischievous scheme will record his vote. </p> </div3> 
+<div3 type="article" n="2"> 
+<head type="nobreak" rend="smallcaps">Bill for the protection of Treasury notes, and against the exportation of coin, &#x0026;c.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="226"/> --The <orgName n="House of Delegates" type="government">House of Delegates</orgName> on Monday passed a bill for the protection of Treasury notes, the main features of which are the following: </p> 
+<list type="ordered"> 
+<head></head> 
+<item n="1"> <num value="1" type="ordinal">1st</num>.
+
+<milestone unit="sentence" n="227"/>Forbidding the sale or exchange of any Bank note or Confederate Treasury note, for any sum in <rs type="color">gold</rs> or <rs type="color">silver</rs> less than the nominal value of said Bank or Treasury note.
+
+<milestone unit="sentence" n="228"/></item> 
+<item n="2"> <num value="2" type="ordinal">2d</num>.
+
+<milestone unit="sentence" n="229"/>Laying the same restriction upon the sale of Confederate notes for Bank notes.
+
+<milestone unit="sentence" n="230"/></item> 
+<item n="3"> <num value="3" type="ordinal">3d</num>.
+
+<milestone unit="sentence" n="231"/>Forbidding the exportation of <rs type="color">gold</rs> or <rs type="color">silver</rs>, or Bank or State Treasury notes, without the written consent of the <rs>Governor</rs> or the <rs type="role" reg="Secretary of the Treasury">Secretary of the Treasury</rs> of the <placeName reg="United States" key="tgn,7012149">Confederate States</placeName>. </item> 
+<item n="4"> <num value="4" type="ordinal">4th</num>.
+
+<milestone unit="sentence" n="232"/>Prescribes the penalty, which is forfeiture, fine, and imprisonment.
+
+<milestone unit="sentence" n="233"/></item> 
+<item n="5"> <num value="5" type="ordinal">5th</num>.
+
+<milestone unit="sentence" n="234"/>Against selling, or giving and receiving in exchange, any Bank or Treasury note, &#x0026;c., issued within the limits of the <placeName reg="United States" key="tgn,7012149">United States</placeName>. </item> </list> 
+<p>
+
+<milestone unit="sentence" n="235"/> As the <orgName n="House of Delegates" type="government">House of Delegates</orgName> failed to inform the world, we are unable to see how far, and in what particular, the currency is to be benefited by this bill should it become a law. There is not a country in the world, we believe, in which attempts of the same kind have not been made, and not <num value="1">one</num> instance in which they have ever been of the slightest benefit.--The present bill appears to have been more particularly suggested by the proceedings of the <name>Jacobins</name> in the convention during the early stages of the <rs>French Revolution</rs>.
+
+<milestone unit="sentence" n="236"/>These worthy legislators having issued a currency which speedily fell a <num value="1000">thousand</num> <hi rend="italics">per cent.,</hi> fell upon the wise expedient of giving it a forced circulation.
+
+<milestone unit="sentence" n="237"/>They therefore passed a law from which we should have supposed this was copied had we not known the just contempt in which our philosophers of the <name>Legislature</name> hold all historical precedents, in which they declared it an offence, to be punished by the guillotine, for any man to give or receive for an assignat any sum in <rs type="color">gold</rs> or <rs type="color">silver</rs> less than its nominal value.
+
+<milestone unit="sentence" n="238"/>They also passed a law against the exportation of <rs type="color">gold</rs> and <rs type="color">silver</rs> &mdash; punishing the <num value="1" type="ordinal">first</num> offence with <measure n="5years" type="date">five years</measure> labor in irons, and the <num value="2" type="ordinal">second</num> with the guillotine.
+
+<milestone unit="sentence" n="239"/>These laws had not the smallest effect.
+
+<milestone unit="sentence" n="240"/>No man wanted the assignats so badly as to give the nominal value for them in coin; and all who wanted them bought them as they had always done, at their <hi rend="italics">real</hi> value only, taking care to make the transaction secret.
+
+<milestone unit="sentence" n="241"/>As the gold seller demanded a proper indemnification for the risk he ran, he, of course, charged a huge additional per centum for his gold, and thus contributed to run down the value of the assignats more than could have happened had the transaction been open and above board.
+
+<milestone unit="sentence" n="242"/>So far from checking exportation these laws enhanced it prodigiously.
+
+<milestone unit="sentence" n="243"/>Few people who had coin wished it to lie idle, and as they wished to invest it neither in assignats nor in the national domain, from distrust of the success of the <rs>Government</rs>, they invested it in foreign securities, bills of Exchange on <placeName reg="London, Greater London, England" key="tgn,7011781">London</placeName>, <name>English</name> stocks, &#x0026;c. <placeName key="tgn,7013927" n="1.000 10" reg="Pittsburgh, Allegheny, Pennsylvania">Pitt</placeName> was even accused of opening a credit for persons thus circumstanced in order to drain <placeName key="tgn,1000070" n="1.000 1012" reg="france">France</placeName>, as much as possible, of the precious metals. </p> 
+<p>
+
+<milestone unit="sentence" n="244"/> In <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName>, about the year <dateStruct value="1809--"><year reg="1809">1809</year></dateStruct>, Parliament passed a law rendering it highly penal to give more than <measure n="21s." type="currency"><num value="21">twenty-one</num> shillings</measure> for guineas of standard weight.
+
+<milestone unit="sentence" n="245"/>The consequence was, that the standard guinea disappeared from circulation altogether.
+
+<milestone unit="sentence" n="246"/>It was carried over to the continent, where full value could be obtained for it, which could not be done in <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName>, where the paper currency was depreciated.
+
+<milestone unit="sentence" n="247"/>The light guinea &mdash; that is, the guinea which from abrasion or clipping weighed less than sterling &mdash; almost entirely supplied the place of the new or standard guinea, upon the well known principle that when <num value="2">two</num> currencies are in circulation the inferior will always supplant the better.
+
+<milestone unit="sentence" n="248"/>Besides, no price had been fixed for the light guinea; and although greatly inferior in value, it sold readily for <measure n="24s." type="currency"><num value="24">twenty-four</num> shillings</measure>, while the foolish penal law restricted the standard guinea, just from the mint, to <measure n="21s." type="currency"><num value="21">twenty-one</num> shillings</measure>. Such was the result of an attempt to give a factitious value to a depreciated currency.
+
+<milestone unit="sentence" n="249"/>It drove nearly all the good guineas out of the country.
+
+<milestone unit="sentence" n="250"/>In the debate on the report of the <rs>Bullion Committee</rs> in the <orgName n="House of Commons" type="government">House of Commons</orgName> in <dateStruct value="1811--"><year reg="1811">1811</year></dateStruct>, <persName n="Canning,,,,," id="n-0001.0000.00000.00207" reg="mostcommon:Canning,nomatch:0"><surname>Canning</surname></persName> <milestone unit="column" n="2"/> said that penal laws forbidding the exportation of coin always, wherever they had been tried, had acted as a <hi rend="italics">premium</hi> upon exportation.
+
+<milestone unit="sentence" n="251"/>At that very moment the <rs>Spanish</rs> milled dollar was circulating in <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName> to such an extent that it had entirely supplanted the crown piece, although the latter was, intrinsically, more valuable.
+
+<milestone unit="sentence" n="252"/>Yet <placeName key="tgn,1000095" n="1.000 392" reg="espana">Spain</placeName> is, and always was, the most obstinately bigoted of all nations, except <placeName key="tgn,1000090" n="1.000 98" reg="portugal">Portugal</placeName>, in keeping up the absurd regulations against the exportation of bullion, which is the favorite policy of semi-barbarous sovereignties.--The reason of all this is obvious.
+
+<milestone unit="sentence" n="253"/>Money <hi rend="italics">will</hi> seek the point at which it can be most profitably employed. </p> 
+<p>
+
+<milestone unit="sentence" n="254"/> This silly law, however, leaves itself so completely open to evasion that, even were its object otherwise attainable, they could not be reached under its enactments.
+
+<milestone unit="sentence" n="255"/>It makes it penal to export <rs type="color">gold</rs> or <rs type="color">silver</rs> to foreign countries.
+
+<milestone unit="sentence" n="256"/>A man has only to carry his <rs type="color">gold</rs> or <rs type="color">silver</rs> to <placeName reg="North Carolina" key="tgn,7007709">North Carolina</placeName>, which is not a foreign country, and there being no restriction there, he can do with it what it may please him to do. Indeed, the title of the act should be, &#x0022;An act to drive <rs type="color">gold</rs> and <rs type="color">silver</rs> to the adjoining States.&#x0022; In the meantime, we venture to say, there is not a man in the <orgName n="House of Delegates" type="government">House of Delegates</orgName> who, if he wanted gold, would not at once go to the brokers, who have it, instead of <persName n="Memminger,Mister,,,," id="n-0001.0000.00000.00208" reg="mostcommon:Memminger,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Memminger</surname></persName>, who, we dare say, has it not. The trade will be as brisk as ever; but whereas it was formerly open, it will now be conducted in secret. </p> </div3> 
+<div3 type="article" n="3"> 
+<head type="nobreak" rend="smallcaps">New Publications.--<hi rend="italics"><num value="2" type="ordinal">second</num> year of the <rs>War</rs></hi>--<persName n="Pollard,,E.,A.,," id="n-0001.0000.00000.00209" reg="default:Pollard,E.,A.,,"><foreName>E.</foreName> <foreName>A.</foreName> <surname>Pollard</surname></persName>.
+
+<milestone unit="sentence" n="257"/>West &#x0026; <persName n="Johnston,,,,," id="n-0001.0000.00000.00210" reg="mostcommon:Johnston,nomatch:0"><surname>Johnston</surname></persName>.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="258"/> --This, the <num value="2" type="ordinal">second</num> volume of <persName n="Pollard,Mister,,,," id="n-0001.0000.00000.00211" reg="nearbymention:Pollard,E.,A.,,"><roleName n="Mister">Mr.</roleName> <surname>Pollard</surname></persName>'s history of the war, will meet with even a wider circulation than the <num value="1" type="ordinal">first</num>.
+
+<milestone unit="sentence" n="259"/>It contains remarkably well written accounts of the great battles which have taken place in the <num value="2" type="ordinal">second</num> year of this struggle &mdash; accounts which have the merit of being compiled from reliable sources, and the beauty of a strong and dashing style in the writer.
+
+<milestone unit="sentence" n="260"/>The book is for sale at <persName n="West,,,,," id="n-0001.0000.00000.00212" reg="mostcommon:West,nomatch:0"><surname>West</surname></persName> &#x0026; <persName n="Johnston,,,,," id="n-0001.0000.00000.00213" reg="mostcommon:Johnston,nomatch:0"><surname>Johnston</surname></persName>'s. </p> 
+<p>
+
+<milestone unit="sentence" n="261"/> <hi rend="italics">The <rs type="role" reg="Aide de camp">Aide-de-camp</rs></hi>--A Romance of the <rs>War</rs>. By <persName n="McCabe,,James,D.,," id="n-0001.0000.00000.00214" reg="default:McCabe,James,D.,,"><foreName n="James">Jas.</foreName> <foreName>D.</foreName> <surname>McCabe</surname>, <genName n="junior">Jr.</genName></persName> This little volume is published by <persName n="Smith,,W.,A.,J.," id="n-0001.0000.00000.00215" reg="default:Smith,W.,A.,J.,"><foreName>W.</foreName> <foreName>A.</foreName> <foreName>J.</foreName> <surname>Smith</surname></persName>, <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>, and is for sale at the bookstores. </p> </div3> </div2> </div1> 
+<div1 type="notices"> 
+<head></head> 
+<div2 type="advertisements"> 
+<head></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="262"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> </div1> <milestone unit="column" n="3"/> 
+<div1 type="news"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName>.</head> 
+<div2 type="morning"> 
+<head><date value="1863-10-22">Thursday morning...October 22, 1863.</date></head> 
+<div3 type="article" n="1"> 
+<head type="nobreak" rend="smallcaps">From <placeName reg="Virginia" key="tgn,7007919"><rs type="direction">Northern</rs> Virginia</placeName>.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="263"/> --So far as we could gather from the various sources of information, everything was quiet with the <orgName>army of <persName n="Lee,General,,,," id="n-0001.0000.00000.00216" reg="mostcommon:Lee,nomatch:0"><roleName n="General">Gen.</roleName> <surname>Lee</surname></persName></orgName> yesterday.
+
+<milestone unit="sentence" n="264"/>Some of the fruits of his captures in his late chase after <persName n="Meade,,,,," id="n-0001.0000.00000.00217" reg="mostcommon:Meade,nomatch:0"><surname>Meade</surname></persName> arrived here yesterday in the way of prisoners, over <num value="900">nine hundred</num> of whom came down on the <rs>Central</rs> road during the day. </p> 
+<p>
+
+<milestone unit="sentence" n="265"/> From the lower Valley we are informed that <persName n="Imboden,General,,,," id="n-0001.0000.00000.00218" reg="mostcommon:Imboden,nomatch:0"><roleName n="General">Gen.</roleName> <surname>Imboden</surname></persName> made a descent upon the <rs n="Yankee" type="group">Yankees</rs> at <placeName reg="Charles Town, Jefferson, West Virginia" key="tgn,2117756">Charlestown</placeName>, <placeName><distance reg="8miles">eight miles</distance> <offset>southwest</offset> of  <placeName reg="Harpers Ferry, Jefferson, West Virginia" key="tgn,7016154">Harper's Ferry</placeName></placeName>, on <dateStruct><day type="name">Sunday</day></dateStruct> last, in which he captured over <measure n="400" type="prisoners">four hundred prisoners</measure>, and succeeded in getting them off safely, although pursued by a superior force from <placeName reg="Harpers Ferry, Jefferson, West Virginia" key="tgn,7016154">Harper's Ferry</placeName>.
+
+<milestone unit="sentence" n="266"/>His loss is said to have been about <num value="30">thirty</num> in killed and wounded. </p> 
+<p>
+
+<milestone unit="sentence" n="267"/> We have also a report that <persName n="Blackford,Captain,,,," id="n-0001.0000.00000.00219" reg="mostcommon:Blackford,nomatch:0"><roleName n="Captain">Capt.</roleName> <surname>Blackford</surname></persName>, of <orgName n="battalion"><persName n="Gilmer,Major,,,," id="n-0001.0000.00000.00220" reg="mostcommon:Gilmer,nomatch:0"><roleName n="Major">Major</roleName> <surname>Gilmer</surname></persName>'s battalion</orgName>, was surprised in the neighborhood of <placeName reg="Martinsburg, Berkeley, West Virginia" key="tgn,2119135">Martinsburg</placeName>, and himself and the greater part of his men made prisoners.
+
+<milestone unit="sentence" n="268"/><rs type="role">Capt.</rs> B. and his company, it is stated, were reconnoitering near <placeName reg="Martinsburg, Berkeley, West Virginia" key="tgn,2119135">Martinsburg</placeName>, and some Union men in the neighborhood informed the <rs n="Yankee" type="group">Yankees</rs> of their whereabouts, when they were surrounded by a vastly superior force of the enemy and compelled to surrender. </p> </div3> 
+<div3 type="article" n="2"> 
+<head type="nobreak" rend="smallcaps">The Legislature.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="269"/> --In the <hi rend="italics">Senate,</hi> the joint resolution in relation to the increase of pay to soldiers, and the commutation of rations not furnished in kind, was taken up and passed. </p> 
+<p>
+
+<milestone unit="sentence" n="270"/> The joint resolution adopted by the <rs type="place">House</rs> to adjourn on the <num value="1" type="ordinal">first</num> Monday in <dateStruct value="-11-"><month reg="11">November</month></dateStruct>, was taken up and laid on the table. </p> 
+<p>
+
+<milestone unit="sentence" n="271"/> The act passed by the <rs type="place">House</rs>, authorizing the sale of the <rs type="place">Capon Springs</rs>, heretofore referred to the <rs>Committee</rs> on <persName n="Laws,General,,,," id="n-0001.0000.00000.00221" reg="mostcommon:Laws,nomatch:0"><roleName n="General">General</roleName> <surname>Laws</surname></persName>, was reported back from that committee without amendment. </p> 
+<p>
+
+<milestone unit="sentence" n="272"/> <persName n="Neeson,Mister,,,," id="n-0001.0000.00000.00222" reg="mostcommon:Neeson,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Neeson</surname></persName> submitted a resolution looking to additional compensation to the <rs>Judges</rs> of the <rs>State</rs> during the war, which was agreed to. </p> 
+<p>
+
+<milestone unit="sentence" n="273"/> <persName n="Marshall,Mister,,,," id="n-0001.0000.00000.00223" reg="nearbymention:Marshall,Humphrey,,,"><roleName n="Mister">Mr.</roleName> <surname>Marshall</surname></persName> moved that the joint resolutions on the currency, prices, &#x0026;c., offered by him several days ago, be withdrawn from the consideration of the <rs>Committee</rs> on Confederate Relations, to which they were referred, and deposited with the <rs>Committee</rs> for Courts of Justice, together with another resolution which he had submitted, and the motion was agreed to. </p> 
+<p>
+
+<milestone unit="sentence" n="274"/> The bill amending and re-enacting section <num value="9">9</num>, chapter <num value="60">60</num>, of the <name>Code</name>, edition of <dateStruct value="1860--"><year reg="1860">1860</year></dateStruct>, relative to the powers of the <orgName n="Appeals Court" type="court">Court of Appeals</orgName> in cases of <hi rend="italics">habeas corpus,</hi> &#x0026;c., authorizing the removal of causes from <num value="1">one</num> district to another, was taken up and passed.
+
+<milestone unit="sentence" n="275"/>Ayes <num value="31">31</num>, noes none. </p> 
+<p>
+
+<milestone unit="sentence" n="276"/> The Militia bill, with the amendments of the <rs type="place">House</rs>, was taken up as the order of the day. After considering a number of the amendments, <persName n="Keen,Mister,,,," id="n-0001.0000.00000.00224" reg="mostcommon:Keen,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Keen</surname></persName> moved that a <orgName n="Conference Committee" type="committee">committee of conference</orgName> of the two Houses be had; but the motion did not prevail, and the <name>Senate</name> continued the consideration of the bill as amended. </p> 
+<p>
+
+<milestone unit="sentence" n="277"/> A bill was reported from the <rs>Committee</rs> on Agriculture for the establishment of a Board of Manufactures. </p> 
+<p>
+
+<milestone unit="sentence" n="278"/> <persName n="Wilson,Mister,,,," id="n-0001.0000.00000.00225" reg="mostcommon:Wilson,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Wilson</surname></persName>, of <placeName reg="Isle Of Wight, Isle of Wight, Virginia" key="tgn,2415531">Isle of Wight</placeName>, offered a substitute for the bill reported from the <rs>Committee</rs> on <persName n="Banks,,,,," id="n-0001.0000.00000.00226" reg="mostcommon:Banks,nomatch:0"><surname>Banks</surname></persName>, authorizing a subscription to the <rs>Confederate</rs> loan; which was ordered to be printed. </p> 
+<p>
+
+<milestone unit="sentence" n="279"/> On motion of <persName n="Buford,Mister,,,," id="n-0001.0000.00000.00227" reg="mostcommon:Buford,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Buford</surname></persName>, the rules were suspended and the report from the <rs>Committee</rs> on <persName n="Banks,,,,," id="n-0001.0000.00000.00228" reg="mostcommon:Banks,nomatch:0"><surname>Banks</surname></persName>, and accompanying resolutions, were taken up and made the special order at <time value="12oclock">12 o'clock</time> to-morrow. </p> 
+<p>
+
+<milestone unit="sentence" n="280"/> A resolution was adopted directing the <rs>Committee</rs> on Courts of Justice to inquire into the expediency of prohibiting by law the impressment by the <rs>State</rs> or Confederate authorities of supplies intended for the use of poor-houses. </p> 
+<p>
+
+<milestone unit="sentence" n="281"/> On motion of <persName n="Bouldin,Mister,,,," id="n-0001.0000.00000.00229" reg="mostcommon:Bouldin,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Bouldin</surname></persName>, the bill to amend the <name>Code</name>, with reference to the jurisdiction of certain Courts, was taken up and passed. </p> 
+<p>
+
+<milestone unit="sentence" n="282"/> <persName n="Burwell,Mister,,,," id="n-0001.0000.00000.00230" reg="mostcommon:Burwell,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Burwell</surname></persName> offered a substitute for the bill to authorize the impressment of slaves to work on certain railroads, which was ordered to be printed. </p> 
+<p>
+
+<milestone unit="sentence" n="283"/> The rules were suspended, and the bill to increase the salaries of certain officers of the <rs>Government</rs> was taken up and ordered to its <num value="3" type="ordinal">third</num> reading. </p> 
+<p>
+
+<milestone unit="sentence" n="284"/> On motion of <persName n="Worsham,Mister,,,," id="n-0001.0000.00000.00231" reg="nearbymention:Worsham,John,A.,,"><roleName n="Mister">Mr.</roleName> <surname>Worsham</surname></persName>, the <rs>Committee</rs> on Finance was directed to inquire into the expediency of appropriating &mdash; dollars for the benefit of destitute refugees. </p> 
+<p>
+
+<milestone unit="sentence" n="285"/> Senate bill entitled &#x0022;an act to suspend proceedings in certain cases, and on executions, attachments, distress warrants, &#x0026;c.,&#x0022; with an amendment from the <rs>Committee</rs> on Courts, to which the bill had been referred, was taken up. The bill contemplates a repeal of the present stay law for debts, except those owed by soldiers in the service.
+
+<milestone unit="sentence" n="286"/>The bill was finally indefinitely postponed. </p> 
+<p>
+
+<milestone unit="sentence" n="287"/> In the <hi rend="italics">House,</hi> a message was received from the <name>Senate</name> announcing that <sic>that</sic> body had agreed to a joint resolution concerning Commissioners of the <name>Revenue</name>, which was read and committed.--Also, that they had passed the bill to incorporate the <rs>Petersburg Home</rs> <orgName n="Insurance Company" type="company">Insurance Company</orgName>, and an act incorporating the <rs>Southern Insurance</rs> and Savings Society of <placeName reg="Petersburg, Petersburg, Virginia" key="tgn,7014404">Petersburg</placeName>, which were read and committed.
+
+<milestone unit="sentence" n="288"/>Also, that they had passed, with amendments, the <rs type="place">House</rs> bill for the relief of indigent soldiers and sailors of the <placeName reg="Virginia" key="tgn,7007919">State of Virginia</placeName> who have been or may be injured, or who had died, in the service, and of the indigent families of such soldiers and sailors.
+
+<milestone unit="sentence" n="289"/>The amendments were read and the bill committed. </p> 
+<p>
+
+<milestone unit="sentence" n="290"/> <persName n="Jones,Mister,,,," id="n-0001.0000.00000.00232" reg="mostcommon:Jones,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Jones</surname></persName>, from the <rs>Committee</rs> on Elections, presented a report on the contested-election case in <placeName reg="Halifax, Virginia, United States" key="tgn,2002166">Halifax county</placeName>.--There was also a minority report from the same committee submitted by <persName n="Fry,Mister,,,," id="n-0001.0000.00000.00233" reg="mostcommon:Fry,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Fry</surname></persName>, of <persName n="Madison,,,,," id="n-0001.0000.00000.00234" reg="mostcommon:Madison,nomatch:0"><surname>Madison</surname></persName>.
+
+<milestone unit="sentence" n="291"/>Both reports were ordered to be printed without being read. </p> 
+<p>
+
+<milestone unit="sentence" n="292"/> From the <rs>Committee</rs> on Confederate Relations a bill was reported by <persName n="Shackelford,Mister,,,," id="n-0001.0000.00000.00235" reg="mostcommon:Shackelford,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Shackelford</surname></persName> to authorize the <orgName n="Confederate Government" type="org">Confederate Government</orgName> to purchase and hold <rs n="real estate" type="product">real estate</rs> in the <placeName reg="Virginia" key="tgn,7007919">State of Virginia</placeName> for the purpose of producing and manufacturing iron and other metals. </p> </div3> 
+<div3 type="article" n="3"> 
+<head>No more <persName n="Shanks,,,,," id="n-0001.0000.00000.00236" reg="mostcommon:Shanks,nomatch:0"><surname>Shanks</surname></persName>.</head> 
+<p>
+
+<milestone unit="sentence" n="293"/> <hi rend="italics">To the <name>Editors</name> of the <name>Dispatch</name>:</hi> </p> 
+<p>
+
+<milestone unit="sentence" n="294"/> We understand that no more beef shins are to be sold to the poor at the <rs>Commissary</rs>'s store, on <address><street n="Broad street">Broad street</street></address>. But hereafter, while the children of the poor refugees will stand with empty baskets, the little tickets of the <rs>Captain</rs> and <persName n="Commissaries,Major,,,," id="n-0001.0000.00000.00237" reg="mostcommon:Commissaries,nomatch:0"><roleName n="Major">Major</roleName> <surname>Commissaries</surname></persName>, Quartermasters, and A. A. G.'s will procure the finest beef at Government price. </p> 
+<p>
+
+<milestone unit="sentence" n="295"/> <rs type="role" reg="the Honorable-Secretary of War">The Hon. Secretary of War</rs> cannot take note of these little things; but we understand he is ever ready to do what is right between man and man at this trying time, and hence we ask, why should these military officers, mostly of conscript age, enjoy this advantage over civil officers, who labor as faithfully in the cause and who are mostly over conscript age, and refugees, with large and dependent families?
+
+<milestone unit="sentence" n="296"/>We are sure <persName n="Seddon,Mister,,,," id="n-0001.0000.00000.00238" reg="nearbymention:Seddon,James,A.,,"><roleName n="Mister">Mr.</roleName> <surname>Seddon</surname></persName> will act in this matter to the extent of his authority. </p> <closer> <signed>X.</signed> </closer> </div3> </div2> </div1> <milestone unit="column" n="4"/> 
+<div1 type="notices"> 
+<head></head> 
+<div2 type="announcements"> 
+<head></head> 
+<div3 type="married" n="1"> 
+<head>Married.</head> 
+<div4 type="wed" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="297"/> At the bride's father's, on the <dateStruct value="-10-8"><day reg="8">8th</day> <month reg="10">Oct.</month></dateStruct>, by the <rs>Rev</rs> <persName n="Shields,Doctor,,,," id="n-0001.0000.00000.00239" reg="nearbymention:Shields,Jas,,,"><roleName n="Doctor">Dr.</roleName> <surname>Shields</surname></persName>. <persName n="Baker,Mister,Wm,,," id="n-0001.0000.00000.00240" reg="default:Baker,Wm,,,"><roleName n="Mister">Mr.</roleName> <foreName>Wm</foreName> <surname>Baker</surname></persName> to <persName><roleName n="Miss">Miss</roleName> <foreName>Martha</foreName></persName> A Jones, both of this city. </p> </div4> 
+<div4 type="wed" n="2"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="298"/> On <dateStruct><day type="name">Thursday</day></dateStruct>, the <num value="15" type="ordinal">15th</num> inst, at the residence of the bride's father, by the <rs>Rev</rs> <persName n="Pettigrew,Mister,,,," id="n-0001.0000.00000.00241" reg="mostcommon:Pettigrew,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Pettigrew</surname></persName>, <rs type="role">Mr.</rs> W E Chockley and <persName><roleName n="Miss">Miss</roleName> <foreName>Fannie</foreName></persName> W <persName n="Ferneyhough,,,,," id="n-0001.0000.00000.00242" reg="mostcommon:Ferneyhough,nomatch:0"><surname>Ferneyhough</surname></persName>, all of this city. </p> </div4> </div3> 
+<div3 type="death" n="2"> 
+<head>Died.</head> 
+<div4 type="obit" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="299"/> On <dateStruct value="---"><day type="name">Sunday</day></dateStruct> <time>afternoon</time>, at the residence of her parents, on <address><street n="Main street">Main street</street></address>, <persName n="Jane,,Emma,,," id="n-0001.0000.00000.00243" reg="default:Jane,Emma,,,"><foreName>Emma</foreName> <surname>Jane</surname></persName>, <rs type="role" reg="IsFather">daughter of</rs> O V and <persName><foreName>Mary</foreName></persName> A Blenis, aged <num value="1">1</num> year <measure n="11months" type="date">11 months</measure> and <measure n="18days" type="date">18 days</measure>. </p> 
+<p>
+
+<milestone unit="sentence" n="300"/> <cit><q> <lg type="stanza"> <l>The light is from my household gone; </l><l>The voice we love is stilled; </l><l>The place is vacant at our hearth </l><l>Which never can be filled.
+
+<milestone unit="sentence" n="301"/></l> </lg> <lg type="stanza"> <l>My babe, my love, my life are dead.
+
+<milestone unit="sentence" n="302"/></l><l>And sorrow binds my aching head; </l><l>My only precious child now sleeps </l><l>While her stricken mother weeps.
+
+<milestone unit="sentence" n="303"/></l> </lg> <lg type="stanza"> <l>Adieu, my child, in quiet rest, </l><l>He ever still thy infant breast; </l><l>Since here on earth, my darling love, </l><l>We part to meet again above.
+
+<milestone unit="sentence" n="304"/></l> </lg> </q><bibl></bibl></cit> </p> 
+<p> The funeral will take place from Rev <persName n="Duncan,Doctor,,,," id="n-0001.0000.00000.00244" reg="mostcommon:Duncan,nomatch:0"><roleName n="Doctor">Dr.</roleName> <surname>Duncan</surname></persName>'s Church, corner of <address><street n="10 Street">10th</street></address> and <address><street n="Broad Street">Broad streets</street></address>, at <time value="11oclock">11 o'clock</time> this morning.
+
+<milestone unit="sentence" n="305"/>The friends and acquaintances of the family are invited to attend. </p> </div4> 
+<div4 type="obit" n="2"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="306"/> In this city, on yesterday, the <dateStruct value="--21"><day reg="21">21st instant</day></dateStruct>, Bridget, wife of E H Ivory. </p> 
+<p>
+
+<milestone unit="sentence" n="307"/> Her funeral will take place from her late residence, on <address><street n="Main street">Main street</street></address>, between <address><street n="19 Street">19th</street></address> and <address><street n="20 Street">20th</street></address>, this (<dateStruct><day type="name">Thursday</day></dateStruct>) evening, at <time value="3oclock">3 o'clock</time>. The friends of the family are invited to attend. </p> 
+<p>
+
+<milestone unit="sentence" n="308"/> <orgName n="Boston Herald" type="newspaper">Boston Herald</orgName> please copy. </p> </div4> 
+<div4 type="obit" n="3"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="309"/> <placeName reg="Orange, Virginia, United States" key="tgn,2002177">In Orange co.</placeName> on the <num value="6" type="ordinal">6th</num> inst, in the <num value="72" type="ordinal">72d</num> year of her age, <persName n="Roberts,Mrs.,Lucy,Ann,," id="n-0001.0000.00000.00245" reg="default:Roberts,Lucy,Ann,,"><roleName n="Mrs.">Mrs.</roleName> <foreName>Lucy</foreName> <foreName>Ann</foreName> <surname>Roberts</surname></persName>, relict of <persName n="Roberts,Major,John,,," id="n-0001.0000.00000.00246" reg="default:Roberts,John,,,"><roleName n="Major">Major</roleName> <foreName>John</foreName> <surname>Roberts</surname></persName>, of <placeName reg="Culpeper, Culpeper, Virginia" key="tgn,2111394">Culpeper</placeName>, and daughter of the late <rs>Robert Pollard</rs>, of this city. </p> </div4> 
+<div4 type="obit" n="4"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="310"/> <hi rend="smallcaps">Funeral Notice</hi>--The funeral of <hi rend="smallcaps"><persName n="Fog,Captain,David,,," id="n-0001.0000.00000.00247" reg="default:Fog,David,,,"><roleName n="Captain">Capt</roleName> <foreName>David</foreName> <surname>Fog</surname></persName></hi> will be preached at the <orgName n="Methodist Church" type="church">Methodist Church</orgName> in <placeName key="tgn,2625188" n="1.000 10" reg="Rocketts, Henrico, Virginia">Rocketts</placeName> on <dateStruct value="---"><day type="name">Sunday</day></dateStruct> <time>morning</time> at <time value="11oclock">11 o'clock</time>. The friends and acquaintances are invited to attend without further notice. </p> </div4> 
+<div4 type="obit" n="5"> 
+<head>Tribute of respect.</head> 
+<p>
+
+<milestone unit="sentence" n="311"/> <hi rend="smallcaps">To the <name>Memory</name> of Wm E Golden.</hi>--This gallant young man died at the <rs type="place">Naval Hospital</rs> in <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>, Va, on <dateStruct value="--18"><day type="name">Sunday</day>, <day reg="18">18th inst.</day></dateStruct> After having served his country faithfully for <measure n="2years" type="date">two years</measure> in the cavalry service, under <persName n="Jenkins,,Gen,,," id="n-0001.0000.00000.00248" reg="default:Jenkins,Gen,,,"><foreName>Gen</foreName> <surname>Jenkins</surname></persName>, he received a transfer to the navy.
+
+<milestone unit="sentence" n="312"/>Never has there been a more high-spirited or chivalrous youth offered up for his country's sacrifice.
+
+<milestone unit="sentence" n="313"/>He possessed a gentle and generous heart, a cultivated mind, and a most affectionate disposition, which won the respect of his officers and the good will of his shipmates and friends. </p> 
+<p>
+
+<milestone unit="sentence" n="314"/> This is another noble sacrifice in the defence of his country's freedom.
+
+<milestone unit="sentence" n="315"/>Thus has passed away <num value="1">one</num> of our nation's glorious youths.
+
+<milestone unit="sentence" n="316"/>No <num value="1">one</num> has battled harder against his country's enemies than <hi rend="smallcaps"><persName><foreName>Willie</foreName></persName>.</hi> This is from those who knew him well. </p> <closer> <signed>E H.</signed> <lb/> C S St'r <placeName key="tgn,2570615" n="1.000 1" reg="patrick henry, charlotte, virginia">Patrick Henry</placeName>, <dateStruct value="1863-10-20"><month reg="10">Oct.</month> <day reg="20">20</day>, <year reg="1863">1863</year></dateStruct>. </closer> </div4> </div3> </div2> 
+<div2 type="announcements"> 
+<head></head> 
+<div3 type="orders" n="1"> 
+<head>By the <rs>Governor</rs> of <placeName reg="Virginia, United States, North and Central America" key="tgn,7007919">Virginia</placeName> &mdash; a Proclamation.</head> 
+<div4 type="entry" n="1"> 
+<head></head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="317"/> --Information having been received by the <rs>Executive</rs> that <hi rend="smallcaps"><persName n="William,Doctor,,,," id="n-0001.0000.00000.00249" reg="mostcommon:William,nomatch:0"><roleName n="Doctor">Dr.</roleName> <surname>William</surname></persName> P <persName n="Rucker,,,,," id="n-0001.0000.00000.00250" reg="mostcommon:Rucker,nomatch:0"><surname>Rucker</surname></persName>,</hi> charged with treason, murder, and other crimes, escaped from the jail of <placeName key="tgn,2002180" n="1.000 8" reg="pittsylvania, virginia, united states">Pittsylvania county</placeName> on the night of the <num value="18" type="ordinal">18th</num> inst, and is now going at large.
+
+<milestone unit="sentence" n="318"/>Therefore, I do hereby offer a reward of <measure n="500dollars" type="currency">five hundred dollars</measure> to any person or persons who shall arrest the said <rs>William</rs> P <persName n="Rucker,,,,," id="n-0001.0000.00000.00251" reg="mostcommon:Rucker,nomatch:0"><surname>Rucker</surname></persName> and deliver him into the jail of the said county; and I do moreover require all officers of this Commonwealth, civil and military, and request the people generally, to use their best exertions to procure the arrest of the said <rs>Rucker</rs>, that he may be brought to justice. </p> 
+<p>
+
+<milestone unit="sentence" n="319"/> Given under my hand as Governor, and under the lesser seal of the <rs>Commonwealth</rs>, at <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>, this <dateStruct value="-10-20"><day reg="20">20th</day> day of <month reg="10">October</month></dateStruct>, in the year <dateStruct value="1863--"><year reg="1863">1863</year></dateStruct>. </p> <closer> <signed><persName n="Letcher,,John,,," id="n-0001.0000.00000.00252" reg="default:Letcher,John,,,"><foreName>John</foreName>  <surname>Letcher</surname></persName></signed> <lb/> By the <rs>Governor</rs>: <lb/> <signed><persName><foreName>George</foreName></persName> W <persName n="Munford,,,,," id="n-0001.0000.00000.00253" reg="mostcommon:Munford,nomatch:0"><surname>Munford</surname></persName>,</signed> <lb/> <rs type="role" reg="Secretary">Secretary</rs> of the <rs>Commonwealth</rs>. </closer> </div4> 
+<div4 type="entry" n="2"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="320"/> <persName n="Rucker,Doctor,,,," id="n-0001.0000.00000.00254" reg="mostcommon:Rucker,nomatch:0"><roleName n="Doctor">Dr.</roleName> <surname>Rucker</surname></persName> is described as <measure n="5feet" type="distance">5 feet</measure> <measure n="8inches" type="distance">8 inches</measure> high, hair brown and combed back from forehead, which is rather high, talkative, and bold in manner and bearing, slight stoop in shoulders, rather delicately made, and strong and well toned voice, complexion rather pallid, and face long and rather thin, eyes large, color not known, but not light.
+
+<milestone unit="sentence" n="321"/>It is thought probable that he left with a woman, in a buggy drawn by a sorrel horse, as a strange woman with such a horse and buggy encamped <measure n="0.5mile" type="distance">a half mile</measure> from the <rs type="place">Court-House</rs> the day before, pretending to buy specie from negroes, and suddenly disappeared about the time of his flight. </p> 
+<p>
+
+<milestone unit="sentence" n="322"/> <term type="printrun">oc 23--sw3w</term> </p> </div4> </div3> </div2> 
+<div2 type="advertisements"> 
+<head></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="323"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="announcements"> 
+<head></head> 
+<div3 type="orders" n="1"> 
+<head><hi rend="smallcaps"><persName n="Headq,25Battalion,,,," id="n-0001.0000.00000.00255" reg="mostcommon:Headq,nomatch:0"><roleName n="25Battalion"></roleName><surname>Headq</surname></persName>'s <orgName n="25Battalion">25th battalion</orgName> Va Vols,</hi><lb/><placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>, Va, <dateStruct value="1863-10-21"><month reg="10">Oct.</month> <day reg="21">21</day>, <year reg="1863">1863</year></dateStruct>.</head> 
+<p>
+
+<milestone unit="sentence" n="324"/>The usual reward will be paid for the apprehension and confinement of the following men, deserters from this command: </p> 
+<list> 
+<head></head> 
+<item>M <persName n="Moran,,,,," id="n-0001.0000.00000.00256" reg="mostcommon:Moran,nomatch:0"><surname>Moran</surname></persName>, co B </item> 
+<item>W T <persName n="Armstead,,,,," id="n-0001.0000.00000.00257" reg="mostcommon:Armstead,nomatch:0"><surname>Armstead</surname></persName>, co F </item> 
+<item><persName n="Johnson,,Lucius,,," id="n-0001.0000.00000.00258" reg="default:Johnson,Lucius,,,"><foreName>Lucius</foreName> <surname>Johnson</surname></persName>, co F </item> 
+<item><persName n="Parks,,James,,," id="n-0001.0000.00000.00259" reg="default:Parks,James,,,"><foreName>James</foreName> <surname>Parks</surname></persName>, co F </item> 
+<item><persName n="Willis,,Charles,,," id="n-0001.0000.00000.00260" reg="default:Willis,Charles,,,"><foreName>Charles</foreName> <surname>Willis</surname></persName>, co F </item> 
+<item><persName n="James,,,,," id="n-0001.0000.00000.00261" reg="mostcommon:James,nomatch:0"><surname>James</surname></persName> C <persName n="Levy,,,,," id="n-0001.0000.00000.00262" reg="mostcommon:Levy,nomatch:0"><surname>Levy</surname></persName>, co G </item> 
+<item>H C <persName n="Korff,,,,," id="n-0001.0000.00000.00263" reg="mostcommon:Korff,nomatch:0"><surname>Korff</surname></persName>, co G </item> 
+<item><persName n="Michasts,,Hugh,,," id="n-0001.0000.00000.00264" reg="default:Michasts,Hugh,,,"><foreName>Hugh</foreName> <surname>Michasts</surname></persName>, co G </item> 
+<item>J W <persName n="Emerick,,,,," id="n-0001.0000.00000.00265" reg="mostcommon:Emerick,nomatch:0"><surname>Emerick</surname></persName>, co G </item> 
+<item>R <persName n="Payne,,,,," id="n-0001.0000.00000.00266" reg="mostcommon:Payne,nomatch:0"><surname>Payne</surname></persName>, co G </item> 
+<item><persName n="Redford,,James,,," id="n-0001.0000.00000.00267" reg="default:Redford,James,,,"><foreName>James</foreName> <surname>Redford</surname></persName>, co G </item> 
+<item><persName n="Blum,,William,,," id="n-0001.0000.00000.00268" reg="default:Blum,William,,,"><foreName>William</foreName> <surname>Blum</surname></persName>, co H </item> 
+<item><persName n="Kennedy,,Clinton,,," id="n-0001.0000.00000.00269" reg="default:Kennedy,Clinton,,,"><foreName>Clinton</foreName> <surname>Kennedy</surname></persName>, co H </item> 
+<item>W L <persName n="Jeter,,,,," id="n-0001.0000.00000.00270" reg="mostcommon:Jeter,nomatch:0"><surname>Jeter</surname></persName>, co H </item> </list> <closer> By order of <signed><rs type="role" reg="Lieutenant-Colonel">Lieut-Col.</rs> W M <persName n="Elliott,,,,," id="n-0001.0000.00000.00271" reg="nearbymention:Elliott,S.,C.,,"><surname>Elliott</surname></persName>.</signed> <lb/> <signed><persName><foreName>Oscar</foreName></persName> R <persName n="Hough,,,,," id="n-0001.0000.00000.00272" reg="mostcommon:Hough,nomatch:0"><surname>Hough</surname></persName>,</signed> Adjutant. <term type="printrun">oc 22--6t<unclear></unclear></term> </closer> </div3> </div2> 
+<div2 type="advertisements"> 
+<head></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="325"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="announcements"> 
+<head></head> 
+<div3 type="orders" n="1"> 
+<head>Military Notice</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="326"/> --Drums, Drums, Drums.--The subscriber has resumed the manufacture of Share and Bass Drums at his old stand, corner of Main and <num value="10" type="ordinal">10th</num> sts, up stairs, and has on hand, ready for delivery, a number of Drums of both kinds.
+
+<milestone unit="sentence" n="327"/>Ash Shells and Calf Batters, of superior quality; also, <num value="1">one</num> fine Brass Shell Drum. </p> <closer> <signed><persName n="Wright,,Jas,,," id="n-0001.0000.00000.00273" reg="expanded:Wright,"><foreName>Jas</foreName>  <surname>Wright</surname></persName>.</signed> <term type="printrun">oc 22--4t*</term> </closer> </div3> 
+<div3 type="orders" n="2"> 
+<head>Substitute</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="328"/> --Any person wanting a Substitute can procure <num value="1">one</num> by addressing a note to &#x0022;L S D,&#x0022; and leaving it at this office, stating where an interview can be had. The party is <measure n="46years" type="date">46 years</measure> old. Any applications made within a week will be attended to. Cavalry service preferred. </p> 
+<p>
+
+<milestone unit="sentence" n="329"/> <term type="printrun">oc 22--1t<unclear></unclear></term> </p> </div3> </div2> 
+<div2 type="advertisements"> 
+<head></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="330"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="5"/> 
+<div2 type="special"> 
+<head>Special Notices.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="331"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="wants"> 
+<head>Wants.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="332"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="12"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="13"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="14"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="15"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="16"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="17"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="rent"> 
+<head>For Rent and sale.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="333"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="12"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="13"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="14"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="15"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="6"/> 
+<div2 type="auction"> 
+<head><rs n="auction sales" type="product">Auction Sales</rs>--<hi rend="smallcaps">future days.</hi></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="334"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="12"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="13"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="7"/> 
+<div2 type="auction"> 
+<head><rs n="auction sales" type="product">Auction Sales</rs>--<hi rend="smallcaps">this days.</hi></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="335"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="auction"> 
+<head><rs n="auction sales" type="product">Auction Sales</rs>--<hi rend="smallcaps">future days.</hi></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="336"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> </div1> </body> </text> </TEI.2>

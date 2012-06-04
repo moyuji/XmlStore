@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ <!ENTITY % TEI.XML "INCLUDE"> <!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > %PersProse; <!NOTATION jpg SYSTEM "JPEG"> <!ENTITY NW_RichTimesD_025_152_001 SYSTEM "NW_RichTimesD_025_152_001.jpg" NDATA jpg> <!ENTITY NW_RichTimesD_025_152_002 SYSTEM "NW_RichTimesD_025_152_002.jpg" NDATA jpg> ]> <TEI.2 id="NW_RichTimesD_025_152"> <teiHeader type="aacr2"> <fileDesc> <titleStmt> <title type="245">The Daily Dispatch: December 31, 1863. </title> <title type="gmd">[Electronic resource] </title> <funder> Institute of Museum and Library Services National Leadership Grant </funder> <respStmt> <resp>Creation of machine-readable version: </resp> <name>digital Divide Data </name> <resp>Creation of digital images: </resp> <name>digital Divide Data </name> <resp>Conversion to Tei.2-conformant markup: </resp> <name>digital Divide Data </name> </respStmt> </titleStmt> <extent>ca. <num value="30">XXX</num> kilobytes </extent> <publicationStmt> <publisher>University of <orgName n="Richmond Library" type="library">Richmond Library</orgName> </publisher> <pubPlace>Richmond, Virginia </pubPlace> <idno type="Url">Nw_richtimesd_025_152</idno> <availability> 
+<p>&#x00A9; 2004 by the University of Richmond. </p> 
+<p>Url: http://oncampus.Richmond.edu/academics/Library/digital/ </p> </availability> <date> </date> </publicationStmt> <seriesStmt> 
+<p>Institute of Museum and Library Services Civil War Newspaper Project </p> </seriesStmt> <notesStmt> <note>page images have been included from the microfilm version. </note> <note>images were scanned with a Sunrise 2000 scanner from microfilm, at 14x reduction ratio at 400 dpi Optical Resolution. Creation Software: Pixel Translations. Pixtiff version 1.135. </note> <note>Ddd note: shipped: 2005_06_17_ddd_url. </note> </notesStmt> <sourceDesc> <biblFull> <titleStmt> <title type="245">The Daily Dispatch: December 31, 1863. </title> <title type="246"><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName> </title> <respStmt> <resp> </resp> <name> </name> </respStmt> </titleStmt> <editionStmt> 
+<p> </p> </editionStmt> <extent>2 pages. </extent> <publicationStmt> <publisher>by Cowardin &#x0026; Hammersley. </publisher> <pubPlace>Richmond </pubPlace> <date value="1863-12-31">December 31, 1863</date><idno type="vol">25.152</idno> </publicationStmt> <seriesStmt> <title> </title> </seriesStmt> <notesStmt> <note>microfilm. Ann Arbor, Mi : Proquest. 1 microfilm reel ; 35 mm. </note> </notesStmt> </biblFull> </sourceDesc> </fileDesc> <encodingDesc> <projectDesc> 
+<p>Imls Civil War Newspaper Project. </p> </projectDesc> <editorialDecl> 
+<p>the images exist as archival Tiff images, with Jpeg versions for internet access. </p> </editorialDecl> <refsDecl> <state unit="article" /> </refsDecl> <classDecl> <taxonomy id="lcsh"> <bibl> <title>Library of Congress subject Headings, </title> <edition>21st edition, 1998</edition> </bibl> </taxonomy> </classDecl> </encodingDesc> <profileDesc> <creation> <date value="1863">1863 </date> </creation> <langUsage> <language id="eng">English </language> </langUsage> 
+<textClass> <keywords scheme="lcsh"> 
+<list type="simple"> 
+<item>Newspapers -- Virginia -- Richmond</item> </list> </keywords> </textClass> </profileDesc> <revisionDesc> <change> <date>September, 2005 </date> <respStmt> <resp>Checker </resp> <name>Jeffrey Peil, of the University of <orgName n="Richmond Library" type="library">Richmond Library</orgName> </name> </respStmt> 
+<item>File checked, not corrected: RETURN TO DDD. Did not key "Wanted - A Servant." page 2, column 4. 1 article. Did not key "Wanted - A dining-room servant." page 2, column 4. 1 article. Did not key "Wanted - At the Confederate States Arsenal..." page 2, column 4. 1 article. Did not key "Wanted - WM BEN PALMER." page 2, column 4. 1 article. Did not key "Wanted - Negroes." page 2, column 4. 1 article. Did not key "Wanted - Laborers." page 2, column 4. 1 article. Did not key "Wanted - Twenty good negro Colliers." page 2, column 4. 1 article. Did not key "Wanted - 75 able-bodied negro laborers..." page 2, column 4. 1 article. Did not key "Sale of Negroes." page 2, column 6. 1 article. </item> </change> </revisionDesc> </teiHeader> 
+<text id="NW_RichTimesD_025_152T"> <front> <milestone unit="page" n="1"/> 
+<div1 type="page-image"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="1"/><figure entity="NW_RichTimesD_025_152_001"> <figDesc>Page image of Daily Dispatch, Volume <num value="25">25</num>, <num value="152">Number 152</num>, <ref n="page 1">page 1</ref>. </figDesc> </figure></p> </div1> <titlePage> <docTitle><titlePart type="main"> Daily Dispatch </titlePart> </docTitle> <docImprint> Vol. Xxv &mdash; no.<num value="152">152</num> <pubPlace> <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond, Va.</placeName> </pubPlace> <date value="1863-12-31">Thursday, December 31, 1863</date> <persName n="Price,,,,," id="n-0001.0000.00000.00001" reg="mostcommon:Price,nomatch:0"><surname>Price</surname></persName> <num value="1">One</num> Cent </docImprint> </titlePage> 
+<div1 type="subscription"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName><lb/> by <persName n="Cowardin,,,,," id="n-0001.0000.00000.00002" reg="mostcommon:Cowardin,nomatch:0"><surname>Cowardin</surname></persName> &#x0026; <persName n="Hammersley,,,,," id="n-0001.0000.00000.00003" reg="mostcommon:Hammersley,nomatch:0"><surname>Hammersley</surname></persName>.</head> 
+<p>
+
+<milestone unit="sentence" n="2"/>the <rs>Daily Dispatch</rs> is served to subscribers at <num value="6.25">six and A Quarter</num> Cents Per Week, payable to the <name>Carrier</name> weekly.
+
+<milestone unit="sentence" n="3"/><persName n="Price,,,,," id="n-0001.0000.00000.00004" reg="mostcommon:Price,nomatch:0"><surname>Price</surname></persName> for mailing, <measure n="4dollars" type="currency">$4</measure> a year, or <measure n="2.50dollars" type="currency">$2.50</measure> for <measure n="6months" type="date">six months</measure>, in advance. </p> 
+<p>
+
+<milestone unit="sentence" n="4"/>the <rs>Semi-Weekly Dispatch</rs> is issued every <dateStruct><day type="name">Tuesday</day></dateStruct> and <dateStruct><day type="name">Friday</day></dateStruct> at <measure n="2.00dollars" type="currency">$2.00</measure>, in advance.</p> 
+<p>
+
+<milestone unit="sentence" n="5"/>the <rs>Weekly Dispatch</rs> is issued every <dateStruct><day type="name">Friday</day></dateStruct>, and mailed to subscribers at <measure n="1dollars" type="currency">$1</measure> per annum.</p> </div1> 
+<div1 type="advertising"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName></head> 
+<p>
+
+<milestone unit="sentence" n="6"/> 
+<table rows="4" cols="4"> 
+<head rend="italics">Terms of Advertising.</head> 
+<row><cell><num value="1">1</num> square, <num value="1">1</num> day,</cell><cell><measure n="0.50dollars" type="currency">$0.50</measure></cell><cell><num value="1">1</num> square, <measure n="5days" type="date">5 days</measure>,</cell><cell><measure n="1.00dollars" type="currency">$1.00</measure></cell></row> 
+<row><cell><num value="1">1</num> square, <measure n="2days" type="date">2 days</measure></cell><cell><measure n="0.75dollars" type="currency">$0.75</measure></cell><cell><num value="1">1</num> square, <measure n="5days" type="date">5 days</measure>,</cell><cell><measure n="1.75dollars" type="currency">$1.75</measure></cell></row> 
+<row><cell><num value="1">1</num> square <measure n="3days" type="date">3 days</measure></cell><cell><measure n="1.00dollars" type="currency">$1.00</measure></cell><cell><num value="1">1</num> square, <measure n="12days" type="date">12 days</measure>,</cell><cell><measure n="3.00dollars" type="currency">$3.00</measure></cell></row> 
+<row><cell><num value="1">1</num> square <measure n="4days" type="date">4 days</measure></cell><cell><measure n="1.36dollars" type="currency">$1.36</measure></cell><cell><num value="1">1</num> square, <dateStruct value="-1-"><month reg="1">1 month</month></dateStruct>,</cell><cell><measure n="5.00dollars" type="currency">$5.00</measure></cell></row> </table></p> 
+<p>
+
+<milestone unit="sentence" n="7"/><hi rend="italics">Larger advertisements in exact properties.</hi></p> 
+<p>
+
+<milestone unit="sentence" n="8"/>Advertisements published until forbid, will be charged <measure n="50cents" type="currency">50 cents</measure> per square of <num value="8">eight</num> lines for the <num value="1" type="ordinal">first</num> insertion, and <measure n="25cents" type="currency">25 cents</measure> for each continuance</p> </div1> </front> <body> <milestone unit="column" n="1"/> 
+<div1 type="news"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName>.</head> 
+<div2 type="morning"> 
+<head><unclear></unclear></head> 
+<div3 type="article" n="1"> 
+<head><unclear></unclear></head> 
+<p>
+
+<milestone unit="sentence" n="9"/> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="2"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="3"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="4"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> <milestone unit="column" n="2"/> 
+<div3 type="article" n="5"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="6"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="7"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> <milestone unit="column" n="3"/> 
+<div3 type="article" n="8"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="9"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="10"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="11"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> <milestone unit="column" n="4"/> 
+<div3 type="article" n="12"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="13"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="14"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="15"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="16"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> </div2> <milestone unit="column" n="5"/> 
+<div2 type="local"> 
+<head>Local Matters.</head> 
+<div3 type="article" n="1"> 
+<head><unclear></unclear></head> 
+<p>
+
+<milestone unit="sentence" n="10"/> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="2"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="3"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="4"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="5"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="6"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="7"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="8"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="9"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="10"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="11"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="12"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> <milestone unit="column" n="6"/> 
+<div3 type="article" n="13"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="14"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="15"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="16"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="17"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> 
+<div3 type="article" n="18"> 
+<head><unclear></unclear></head> 
+<p> <unclear></unclear> </p> </div3> </div2> </div1> 
+<div1 type="notices"> 
+<head></head> 
+<div2 type="dividend"> 
+<head>Dividend Notices.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="11"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="12"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="13"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="14"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="15"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="16"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="17"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="18"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="19"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="20"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="7"/> 
+<div2 type="advertisements"> 
+<head><unclear></unclear></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="real estate for sale"> 
+<head><rs n="real estate" type="product">Real Estate</rs> for Sale.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="12"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="advertisements"> 
+<head><unclear></unclear></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> </div1> <milestone unit="page" n="2"/> 
+<div1 type="page-image"> 
+<head></head> 
+<p><figure entity="NW_RichTimesD_025_152_002"> <figDesc>Page image of Daily Dispatch, Volume <num value="25">25</num>, <num value="152">Number 152</num>, <ref n="page 2">page 2</ref>. </figDesc> </figure></p> </div1> <milestone unit="column" n="1"/> 
+<div1 type="notices"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName></head> 
+<div2 type="advertisements"> 
+<head></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="13"/> <!-- &advertid; --> </p> </div3> </div2> </div1> 
+<div1 type="news"> 
+<head><orgName n="Richmond Dispatch" type="newspaper">Richmond Dispatch</orgName>.</head> 
+<div2 type="morning"> 
+<head><date value="1864-12-31">Tuesday morning...December 31, 1864.</date></head> 
+<div3 type="article" n="1"> 
+<head>The Anti-substitute law.</head> 
+<p>
+
+<milestone unit="sentence" n="14"/> The passage of the bill terminating the privilege of employing substitutes for the army, by such overwhelming majorities in both branches of Congress, may be accepted as a clear and positive expression of the sentiment of the people and the army on the subject.
+
+<milestone unit="sentence" n="15"/>That it will operate harshly in individual cases, there cannot be a doubt; but it is very likely that these cases are only exceptions to the general fact that the practices of substitution, through the villainies of agents and the unscrupulousness of persons hiring themselves to fight for others, have been <num value="1">one</num> vast fraud upon the <rs>Government</rs> and the country.
+
+<milestone unit="sentence" n="16"/>The whole country was satisfied of this fact, and the whole country demanded a thorough measure abolishing the system.
+
+<milestone unit="sentence" n="17"/>With a knowledge of the outrages perpetrated under it, its demoralizing effects at home, and the discontent and murmuring it occasioned in camp, people will not likely deplore the partial injustice inflicted by its overthrow.
+
+<milestone unit="sentence" n="18"/>They will consider it as a public necessity and public benefit &mdash; necessary for the replenishing of the army and a blessing, as it lops off <num value="1">one</num> of the heads of the muenster of national abuses which has thrown such serious obstacles in the way of the <rs>Government</rs> and the army in the great struggle now pending, that is to decide the fate of this Confederacy of States--whether it is to be tributary or independent, bond or free. </p> 
+<p>
+
+<milestone unit="sentence" n="19"/> The passage of the law will produce not only much excitement among the class who have availed themselves of the privilege of substitution, but it will cause a stampede amongst the less loyal of them &mdash; nay, it is known that this stampede has already begun.
+
+<milestone unit="sentence" n="20"/>We have no apprehension of detriment to the people of the <rs>South</rs> from this.
+
+<milestone unit="sentence" n="21"/>The flying multitude that will depart hence to escape service can better be spared than not. They will most assuredly &#x0022;leave their country for their country's good.&#x0022; With them the <orgName n="Southern Confederacy" type="newspaper">Southern Confederacy</orgName> is of no value save as a place to make money by extortion and fraud &mdash; by monopolizing articles of commerce and forcing the people to pay monstrous prices for them.
+
+<milestone unit="sentence" n="22"/>In return, the <rs>Confederacy</rs> derives from them nothing but evil.
+
+<milestone unit="sentence" n="23"/>They would use the <rs>Confederacy</rs> to amass wealth, while they feel none of the obligations of a citizen, and use every trick and contrivance to avoid serving that country which affords them asylum and protection.
+
+<milestone unit="sentence" n="24"/>They may, it is true, be captured and put into <orgName n="army"><persName n="Lincoln,,,,," id="n-0001.0000.00000.00005" reg="mostcommon:Lincoln,nomatch:0"><surname>Lincoln</surname></persName>'s army</orgName>; but even then it is better for us. It is better to fight a traitor than to have him in our own ranks to bring about disaster by his treachery. </p> </div3> 
+<div3 type="article" n="2"> 
+<head>The <placeName reg="Creola, Vinton, Ohio" key="tgn,2079141">Creole</placeName> population of the <rs>South</rs>.</head> 
+<p>
+
+<milestone unit="sentence" n="25"/> The word <hi rend="italics"><placeName reg="Creola, Vinton, Ohio" key="tgn,2079141">Creole</placeName></hi>signifies, we believe, native.
+
+<milestone unit="sentence" n="26"/>In <placeName reg="Louisiana" key="tgn,7007256">Louisiana</placeName> and <placeName reg="Mississippi" key="tgn,7007522">Mississippi</placeName> every person born in the <rs>State</rs> is called a Louisiana or <persName n="Creole,Miss,,,," id="n-0001.0000.00000.00006" reg="mostcommon:Creole,nomatch:0"><roleName n="Miss">Mississippi</roleName> <surname>Creole</surname></persName>.
+
+<milestone unit="sentence" n="27"/>Nothing is more common in the former of these States than to hear of &#x0022;<placeName reg="Creola, Vinton, Ohio" key="tgn,2079141">Creole</placeName> <rs n="Frenchman" type="propernoun">Frenchmen</rs>,&#x0022; as distinguished from <rs n="Frenchman" type="propernoun">Frenchmen</rs> from <placeName key="tgn,1000070" n="1.000 1012" reg="france">France</placeName>.
+
+<milestone unit="sentence" n="28"/>In the same way they speak of <placeName reg="Creola, Vinton, Ohio" key="tgn,2079141">Creole</placeName> horses, <placeName reg="Creola, Vinton, Ohio" key="tgn,2079141">Creole</placeName> cattle, <placeName reg="Creola, Vinton, Ohio" key="tgn,2079141">Creole</placeName> sheep, &#x0026;c. Out of <placeName reg="Louisiana" key="tgn,7007256">Louisiana</placeName> and <placeName reg="Mississippi" key="tgn,7007522">Mississippi</placeName>, however, the term seems to have a more limited significance, and a Creole is understood to be a person that has mixed <rs n="African" type="ethnic">African</rs> and <rs n="European" type="group">European</rs> blood in his veins &mdash; precisely the same description of person, Indeed, with what is called a quadroon in New Orleans.
+
+<milestone unit="sentence" n="29"/>In this sense it seems to be taken by <persName n="Dargan,Mister,,,," id="n-0001.0000.00000.00007" reg="mostcommon:Dargan,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>Dargan</surname></persName>, of <placeName reg="Alabama" key="tgn,7002659">Alabama</placeName>, in the very important bill which he has introduced into the <orgName n="House of Representatives" type="government">House of Representatives</orgName>, and which is now before the <rs>Committee</rs> on Military Affairs.
+
+<milestone unit="sentence" n="30"/>The object of the bill is to receive into the <rs>Confederate</rs> service all that portion of the population of <placeName reg="Louisiana" key="tgn,7007256">Louisiana</placeName>, <placeName reg="Mississippi" key="tgn,7007522">Mississippi</placeName>, <placeName reg="Alabama" key="tgn,7002659">Alabama</placeName>, and <placeName reg="Florida" key="tgn,7007240">Florida</placeName>, known as Creoles. </p> 
+<p>
+
+<milestone unit="sentence" n="31"/> We have no means of estimating the number of men that the passage of this bill would place in the service of the <placeName reg="United States" key="tgn,7012149">Confederate States</placeName>.
+
+<milestone unit="sentence" n="32"/>We should suppose, however, that it would not fall short of <num value="20000">20,000</num>.
+
+<milestone unit="sentence" n="33"/>A large proportion of these persons are as white as anybody, having but a very small portion of <rs n="African" type="ethnic">African</rs> blood in their veins.--Many of them have large estates and own large numbers of slaves.
+
+<milestone unit="sentence" n="34"/>Formerly &mdash; so far as regards <placeName reg="Louisiana" key="tgn,7007256">Louisiana</placeName>, at least &mdash; they were forbidden by law to intermarry with whites; but that law, we believe, has been repealed, and an enabling act passed in its stead.
+
+<milestone unit="sentence" n="35"/>The better portion of them are a highly respectable class of people, and all of them, almost without exception, are warm Southern men, and eagerly desirous to bear arms in defence of the <rs>South</rs>.
+
+<milestone unit="sentence" n="36"/>We learn from <persName n="Dargan,General,,,," id="n-0001.0000.00000.00008" reg="mostcommon:Dargan,nomatch:0"><roleName n="General">Gen.</roleName> <surname>Dargan</surname></persName>'s speech that on a former occasion they applied through him to <persName n="Randolph,General,,,," id="n-0001.0000.00000.00009" reg="mostcommon:Randolph,nomatch:0"><roleName n="General">Gen.</roleName> <surname>Randolph</surname></persName>, at that time <rs type="role" reg="Secretary of War">Secretary of War</rs>, for leave to enter the service.
+
+<milestone unit="sentence" n="37"/>The application was rejected on the ground that it would afford a pretext to the enemy for arming our negroes.
+
+<milestone unit="sentence" n="38"/>This objection, substantial enough at the time, has been obviated by the course of the enemy, who has already armed <num value="50000">fifty thousand</num> Southern slaves, and will arm all of them if he can. Application has since been made to the present <rs>Secretary</rs>, who rejects it because, says he,<q>&#x0022;the position we occupy before the world would be damaged thereby.&#x0022;</q> </p> 
+<p>
+
+<milestone unit="sentence" n="39"/> Before rejecting a bill which tends so materially to strengthen our muster list, we think it would be just as well to understand what is our &#x0022;position before the world,&#x0022;and as the <rs>Secretary</rs> seems to understand it better than anybody else, we hope he will enlighten us. To our simple apprehension it appears that &#x0022;the world&#x0022; assigns us no position at all. We are <hi rend="italics">ignored</hi>by every power on the face of the earth, from <placeName reg="United Kingdom" key="tgn,7002445">England</placeName>, <placeName reg="France" key="tgn,1000070">France</placeName>, and <placeName reg="Rossiya" key="tgn,7002435">Russia</placeName>, down to the dirtiest little tyrant whose <num value="5">five</num>-acre patch of a kingdom is watered by the <rs>Elbe</rs>, the <name>Oder</name>, or the <name>Wester</name>.
+
+<milestone unit="sentence" n="40"/>Our ships are scarcely allowed to touch at their ports, our representatives at their courts are insulted in every conceivable manner, we are universally styled the &#x0022;so-called&#x0022; <placeName reg="United States" key="tgn,7012149">Confederate States</placeName> whenever it is necessary to speak of us at all in a public document, and in the <rs>Queen</rs> of <placeName key="tgn,7002445" n="1.000 1835" reg="united kingdom">England</placeName>'s speech this war is designated as &#x0022;the civil war now raging in the <placeName reg="United States" key="tgn,7012149">United States</placeName>.&#x0022; --Really, we should be obliged for any information as to that &#x0022;position&#x0022; whose requirements are so exacting as to deprive us of the services of <num value="20000">twenty thousand</num> brave soldiers at such a time as this. </p> </div3> 
+<div3 type="article" n="3"> 
+<head>Southern Literary Messenger.</head> 
+<p>
+
+<milestone unit="sentence" n="41"/> This old and valued magazine, which has outlived all its kindred enterprises in the <rs>South</rs>, has been purchased by <persName n="Alfriend,Mister,,,," id="n-0001.0000.00000.00010" reg="mostcommon:Alfriend,nomatch:0"><roleName n="Mister">Messrs.</roleName> <surname>Alfriend</surname></persName> and <persName n="Wedderburn,Mister,,,," id="n-0001.0000.00000.00011" reg="mostcommon:Wedderburn,nomatch:0"><roleName n="Mister"></roleName><surname>Wedderburn</surname></persName>, and will in future be conducted in their name.
+
+<milestone unit="sentence" n="42"/>There can be no doubt that it will be conducted with spirit and talent, and we bespeak for it the largest share of patronage.
+
+<milestone unit="sentence" n="43"/>It has always borne a high reputation for talent, and has always been genuinely Southern in its teachings.
+
+<milestone unit="sentence" n="44"/>In character it will undergo no alteration, or only just so much as may imply a fresh supply of energy and enterprise infused into it by young and enthusiastic proprietors. </p> </div3> </div2> </div1> <milestone unit="column" n="2"/> 
+<div1 type="notices"> 
+<head></head> 
+<div2 type="announcements"> 
+<head></head> 
+<div3 type="married" n="1"> 
+<head>Married.</head> 
+<p>
+
+<milestone unit="sentence" n="45"/> At <placeName reg="Louisville, Jefferson, Kentucky" key="tgn,7013915">Louisville</placeName>, on the <dateStruct value="--24"><day reg="24">24th inst.</day></dateStruct>, by <rs type="role">Dr.</rs> L <persName n="Edwards,,,,," id="n-0001.0000.00000.00012" reg="mostcommon:Edwards,nomatch:0"><surname>Edwards</surname></persName>, <persName n="Slaughter,Mister,Martin,,," id="n-0001.0000.00000.00013" reg="default:Slaughter,Martin,,,"><roleName n="Mister">Mr.</roleName> <foreName>Martin</foreName> <surname>Slaughter</surname>, <genName>Jr.</genName></persName>, and <persName n="Stark,Mrs.,Amanda,,," id="n-0001.0000.00000.00014" reg="default:Stark,Amanda,,,"><roleName n="Mrs.">Mrs</roleName> <foreName>Amanda</foreName> <surname>Stark</surname></persName>, all of <placeName reg="King William, Virginia, United States" key="tgn,1002548">king William county, Va.</placeName> </p> </div3> 
+<div3 type="death" n="2"> 
+<head>Died.</head> 
+<div4 type="obit" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="46"/> At the residence of her husband, near this city, on <dateStruct value="---"><day type="name">Tuesday</day></dateStruct> <time>evening</time>, <dateStruct value="-12-29"><month reg="12">December</month> <day reg="29">29th</day></dateStruct>, at <time value="3:30oclock">half- past 3 o'clock</time>, of consumption, <persName n="Harriet,Mrs.,,,," id="n-0001.0000.00000.00015" reg="mostcommon:Harriet,nomatch:0"><roleName n="Mrs.">Mrs.</roleName> <surname>Harriet</surname></persName> A, wife of <persName n="Templeman,Mister,James,,," id="n-0001.0000.00000.00016" reg="default:Templeman,James,,,"><roleName n="Mister">Mr.</roleName> <foreName>James</foreName> <surname>Templeman</surname></persName>. </p> 
+<p>
+
+<milestone unit="sentence" n="47"/> Her funeral will take place from <orgName n="Centenary Church" type="church">Centenary Church</orgName> this (<dateStruct><day type="name">Thursday</day></dateStruct>) morning, at <time value="11oclock">11 o'clock</time>. --The friends of the family are respectfully invited to attend. </p> </div4> 
+<div4 type="obit" n="2"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="48"/> In this city, on the <num value="26" type="ordinal">26th</num> inst, of pneumonia.
+
+<milestone unit="sentence" n="49"/><persName n="Hellings,,Willie,,," id="n-0001.0000.00000.00017" reg="default:Hellings,Willie,,,"><foreName>Willie</foreName> <surname>Hellings</surname></persName>, infant son of P N and H E <persName n="Jewett,,,,," id="n-0001.0000.00000.00018" reg="mostcommon:Jewett,nomatch:0"><surname>Jewett</surname></persName>, aged <measure n="6months" type="date">6 months</measure> and <measure n="23days" type="date">23 days</measure>. </p> 
+<p>
+
+<milestone unit="sentence" n="50"/> <cit><q> <lg type="stanza"> <l>Oh, thou blest infant, divinely blest, </l><l>Thou hast ascended to thy heavenly rest; </l><l>Thou hast risen from this world of woe, </l><l>To those bright realms of bliss, where sin can never go. </l> </lg> <lg type="stanza"> <l>Dearest <persName><foreName>Willie</foreName></persName>, thou hast left us, </l><l>Here thy loss we deeply feel; </l><l>But'tis <name n="God" type="God">God</name> who hath bereft us, </l><l>He can all our sorrows heal.
+
+<milestone unit="sentence" n="51"/></l> </lg> </q><bibl></bibl></cit> </p> 
+<p> <orgName n="New York Daily News" type="newspaper">N.Y. Daily News</orgName>, <orgName n="Boston Traveler" type="newspaper">Boston Traveler</orgName> and Journal please copy. 2t </p> </div4> 
+<div4 type="obit" n="3"> 
+<head>Obituary.</head> 
+<p>
+
+<milestone unit="sentence" n="52"/> Died, on <dateStruct value="---"><day type="name">Friday</day></dateStruct> <time>night</time>, <dateStruct value="1863-12-11"><month reg="12">December</month> <day reg="11">11th</day>, <year reg="1863">1863</year></dateStruct>, in this city, <persName n="George,Mister,,,," id="n-0001.0000.00000.00019" reg="mostcommon:George,nomatch:0"><roleName n="Mister">Mr.</roleName> <surname>George</surname></persName> S <persName n="Barnes,,,,," id="n-0001.0000.00000.00020" reg="mostcommon:Barnes,Lydia,,,:1"><surname>Barnes</surname></persName>, only <persName n="William,IsFather,,,," id="n-0001.0000.00000.00021" reg="mostcommon:William,nomatch:0"><roleName n="IsFather">son of</roleName> <surname>William</surname></persName> C and <persName n="Barnes,,Lydia,,," id="n-0001.0000.00000.00022" reg="default:Barnes,Lydia,,,"><foreName>Lydia</foreName> <surname>Barnes</surname></persName>, aged <measure n="18years" type="date">18 years</measure> and <measure n="5months" type="date">5 months</measure>. </p> 
+<p>
+
+<milestone unit="sentence" n="53"/> This young friend, whose death we have been called to mourn, fell a victim to a disease which has hurried so many in the prime of life to the tomb, typhoid pneumonia.
+
+<milestone unit="sentence" n="54"/>His illness, which continued several weeks, was quite severe, and his being delicate the ravages of the fever soon began to show its terrible effect, and defied the constant efforts to arrest it on the part of his affectionate mother, who nursed him day and night until death took their suffering child from the parents who loved him as only father and mother can love.--These fond parents feel deeply the loss of him who by his obedience had endeared himself not only to them, but to many friends who knew him. We mourn, also, that <num value="1">one</num> so promising should in the spring of life be cut down, and that the bright house of his parents should so soon be overshadowed. </p> 
+<p>
+
+<milestone unit="sentence" n="55"/> The parents of our young friend have drank deeply of the cup of sorrow, for whilst residing in <placeName reg="Norfolk, Norfolk, Virginia" key="tgn,7014231">Norfolk</placeName> during the yellow fever they lost <num value="2">two</num> very interesting children.
+
+<milestone unit="sentence" n="56"/>Besides the death of these <num value="2">two</num> there occurred also at the same time the death of a mother and brother of <rs type="role">Mr.</rs> W C <persName n="Barnes,,,,," id="n-0001.0000.00000.00023" reg="nearbymention:Barnes,Lydia,,,"><surname>Barnes</surname></persName>.
+
+<milestone unit="sentence" n="57"/>Out of a family of <num value="7">seven</num> <num value="6">six</num> laid sick of the fever, <num value="4">four</num> died.
+
+<milestone unit="sentence" n="58"/><persName n="Barnes,Mrs.,,,," id="n-0001.0000.00000.00024" reg="nearbymention:Barnes,Lydia,,,"><roleName n="Mrs.">Mrs</roleName> <surname>Barnes</surname></persName> did not contract this fever, and after the recovery of her husband and son the <num value="3">three</num> remaining members &mdash; father, mother and son &mdash; moved to this city.
+
+<milestone unit="sentence" n="59"/>Though coming as strangers they soon found many friends, all of whom sympathize with these parents in the great loss which they have sustained, <dateStruct><month>May</month></dateStruct> the good <rs>Shepherd</rs> gather these sorrowing parents into his fold when this life, with all its troubles and sorrows, shall have been ended.
+
+<milestone unit="sentence" n="60"/>May they find in Heaven that union which knows no separation, is the prayer of the writer of this feeble tribute to the memory of our departed friend. </p> 
+<p>
+
+<milestone unit="sentence" n="61"/> <cit><q> <lg type="stanza"> <l>&#x0022;&#x0027;Tis hard to surrender </l><l>The friends that we love, </l><l>Tho&#x0027; we hope soon to meet them </l><l>In mansions above.
+
+<milestone unit="sentence" n="62"/></l><l>&#x0027;Tis hard to part from them </l><l>Tho&#x0027; Heaven may call, </l><l>And to <num value="5">five</num> here without them </l><l>Is harder than all. </l> </lg> <lg type="stanza"> <l>&#x0022;We weep for their absence, </l><l>But weeping is vain; </l><l>They are gone, and we never </l><l><dateStruct><month>May</month></dateStruct> see them again.
+
+<milestone unit="sentence" n="63"/></l><l>On these dreary shores </l><l>Where we live but to part </l><l>From the tenderest friends </l><l>That are bound to the heart.
+
+<milestone unit="sentence" n="64"/></l> </lg> <lg type="stanza"> <l>&#x0022;&#x0027;Tis natural to weep, </l><l>For our comforts are riven; </l><l>But we hope, tho&#x0027; we weep, </l><l>We shall meet them in Heaven.
+
+<milestone unit="sentence" n="65"/></l><l>To weep and to part, </l><l>And to sorrow no more, </l><l>For those we have loved </l><l>On this desolate shore.&#x0022; </l> </lg> </q><bibl></bibl></cit> </p> <closer> <signed>By <num value="1">One</num> Who Knew Him.</signed> </closer> </div4> </div3> </div2> 
+<div2 type="advertisements"> 
+<head></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="66"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="negroes"> 
+<head rend="italics">Negroes for Sale and Hire.</head> 
+<div3 type="article" n="1"> 
+<head>For Hire.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="67"/> --A <num value="1">No. 1</num> <persName n="Baker,,,,," id="n-0001.0000.00000.00025" reg="mostcommon:Baker,nomatch:0"><surname>Baker</surname></persName>; has been hired at <rs n="General Hospital 1">General Hospital No. 1</rs> for <measure n="2years" type="date">two years</measure> and can come well recommended Also, <num value="1">one</num> good Shoemaker Apply immediately to </p> <closer> <signed><persName n="Shepherd,,A.,L.,," id="n-0001.0000.00000.00026" reg="default:Shepherd,A.,L.,,"><foreName>A.</foreName> <foreName>L.</foreName>  <surname>Shepherd</surname></persName>,</signed> <lb/> <placeName reg="Post Commissary's office">Post Commissary's office</placeName>, <address><street n="Pearl Street 31">31 Pearl st</street></address>. <term type="printrun">de 31--3t</term> </closer> </div3> 
+<div3 type="article" n="2"> 
+<head>For Hire.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="68"/> --A good <persName n="Cook,,,,," id="n-0001.0000.00000.00027" reg="mostcommon:Cook,nomatch:0"><surname>Cook</surname></persName>, Washer and Ironer.--Apply at the southwest corner of Broad and <num value="24" type="ordinal">24th</num> sts, <placeName key="possibilities=40" n="1.000 10" reg=",">Church Hill</placeName> </p> 
+<p>
+
+<milestone unit="sentence" n="69"/> <term type="printrun">de 31--2t*</term> </p> </div3> </div2> 
+<div2 type="boarding"> 
+<head rend="italics">Boarding.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="70"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="3"/> 
+<div2 type="special"> 
+<head rend="italics">Special Notices.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="71"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="amusements"> 
+<head rend="italics">Amusements.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="72"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="horses"> 
+<head rend="italics">Horses, &#x0026;c., for Sale.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="73"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="4"/> 
+<div2 type="wants"> 
+<head rend="italics">Wants.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="74"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="12"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="13"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="14"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="15"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="16"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="17"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="18"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="19"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="20"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="21"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="22"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="23"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="24"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="25"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="26"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="27"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="28"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="29"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="30"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="31"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="32"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="33"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="34"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="35"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="36"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="37"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="38"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="39"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="5"/> 
+<div2 type="lost"> 
+<head rend="italics">Lost, Strays, &#x0026;c.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="75"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="12"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="13"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="14"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="15"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="16"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="17"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="18"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="19"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="20"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="21"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="22"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="23"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="24"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="25"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="26"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="27"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="28"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="6"/> 
+<div2 type="auction"> 
+<head><hi rend="italics"><rs n="auction sales" type="product">Auction Sales</rs>.</hi>--<hi rend="smallcaps">future days.</hi></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="76"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="12"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="13"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="14"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="15"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="16"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="17"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="18"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> <milestone unit="column" n="7"/> 
+<div2 type="auction"> 
+<head><hi rend="italics"><rs n="auction sales" type="product">Auction Sales</rs>.</hi>--<hi rend="smallcaps">this days.</hi></head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="77"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> 
+<div2 type="runaways"> 
+<head rend="italics">Runaways.</head> 
+<div3 type="article" n="1"> 
+<head><measure n="500dollars" type="currency">500 dollars</measure> reward.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="78"/> --Ran away from the subscriber on <dateStruct value="---"><day type="name">Tuesday</day></dateStruct> <time>morning</time>, <num value="2">two</num> negro women and a child. </p> 
+<p>
+
+<milestone unit="sentence" n="79"/> <persName><foreName>Martha</foreName></persName> is black, <measure n="22years" type="date">22 years</measure> of age, and has as ugly scar or bald place on the top and back of her head.
+
+<milestone unit="sentence" n="80"/>Her child is a boy <measure n="3.5years" type="date">three and a half years</measure> old, and black. </p> 
+<p>
+
+<milestone unit="sentence" n="81"/> <persName><foreName>Sarah</foreName></persName> is a stout woman, of gingerbread color, <measure n="22years" type="date">22 years</measure> old, and will probably weigh <measure n="150l." type="pounds"><num value="150">150</num> pounds</measure>. </p> 
+<p>
+
+<milestone unit="sentence" n="82"/> I will pay the above reward for the return of the <num value="3">three</num> negroes to me, or <measure n="250dollars" type="currency">$250</measure> for <persName><foreName>Sarah</foreName></persName>, and the same amount for <persName><foreName>Martha</foreName></persName> and child. </p> <closer> <signed><persName n="Clarkson,,William,H.,," id="n-0001.0000.00000.00028" reg="default:Clarkson,William,H.,,"><foreName n="William">Wm.</foreName> <foreName>H.</foreName>  <surname>Clarkson</surname></persName>.</signed> <term type="printrun">de 31--3t*</term> </closer> </div3> 
+<div3 type="article" n="2"> 
+<head><measure n="100dollars" type="currency">One Hundred dollars</measure> reward.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="83"/> --Ran off front <persName n="Moore,,Richard,,," id="n-0001.0000.00000.00029" reg="default:Moore,Richard,,,"><foreName>Richard</foreName> <surname>Moore</surname></persName>'s, on the <rs type="place">Meadow Bridge</rs> <unclear></unclear>about <measure n="6weeks" type="date">six weeks</measure> ago, a negro boy named <persName><foreName>Alonzo</foreName></persName> &mdash; goes by the name of Lonney.
+
+<milestone unit="sentence" n="84"/>He is about <measure n="18years" type="date">18 years</measure> old, very black, and has an old look for his age. <unclear></unclear>about <measure n="5feet" type="distance">five feet</measure> high, and has been selling in the <unclear></unclear>Market for the past <num value="5">five</num> or <measure n="6years" type="date">six years</measure>. I will give <unclear> </unclear>above reward for his delivery to me or confinement so that I get him. </p> <closer> <signed><persName n="Moore,,James,,," id="n-0001.0000.00000.00030" reg="default:Moore,James,,,"><foreName>James</foreName>  <surname>Moore</surname></persName>.</signed> <lb/> <address><street n="Franklin Street 8">No. 8 Franklin st</street></address>. <term type="printrun">de 31--2t</term> </closer> </div3> 
+<div3 type="article" n="3"> 
+<head><measure n="300dollars" type="currency">Three Hundred dollars</measure> reward.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="85"/> --Ranaways from the undersigned on <dateStruct value="---"><day type="name">Saturday</day></dateStruct> <time>night</time> last my negro woman <persName><foreName>Martha</foreName></persName> and her child <persName><foreName>Nannie</foreName></persName>.--<persName><foreName>Martha</foreName></persName> is of a dark complexion, about <measure n="28years" type="date">28 years</measure> old, and generally dresses in black.
+
+<milestone unit="sentence" n="86"/><persName><foreName>Nannie</foreName></persName> is a bright mulatto, about <measure n="12years" type="date">12 years</measure> old. I have every reason to believe that the above negroes are trying to make their way to the enemy, as they left without any cause whatever, and took all of their clothes off with them.
+
+<milestone unit="sentence" n="87"/>I will give the above reward for the arrest and delivery to me of the above named negroes, or <measure n="150dollars" type="currency">$150</measure> for either <num value="1">one</num> of them, or if they <unclear></unclear>lodged in any jail in this city so that I can get them. </p> <closer> <signed><persName n="Tyler,,R.,B.,," id="n-0001.0000.00000.00031" reg="default:Tyler,R.,B.,,"><foreName>R.</foreName> <foreName>B.</foreName>  <surname>Tyler</surname></persName>, <persName n="Laboratory,,C.,S.,," id="n-0001.0000.00000.00032" reg="default:Laboratory,C.,S.,,"><foreName>C.</foreName> <foreName>S.</foreName> <surname>Laboratory</surname></persName>.</signed> <term type="printrun">de 30--6t*</term> </closer> </div3> 
+<div3 type="article" n="4"> 
+<head><measure n="200dollars" type="currency">200 dollars</measure> reward.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="88"/> --Will be paid for the apprehension of <persName n="Hannah,,,,," id="n-0001.0000.00000.00033" reg="mostcommon:Hannah,nomatch:0"><surname>Hannah</surname></persName>, who ran away from the service of G V Case, of <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>, <dateStruct value="-12-23"><month reg="12">Dec.</month> <day reg="23">23</day></dateStruct> <unclear></unclear>Said servant is of gingerbread color; upper teeth on in front; about <measure n="5feet" type="distance">5 feet</measure> <measure n="10inches" type="distance">10 inches</measure> high, and about <num value="20">20</num> or <measure n="30years" type="date">30 years</measure> old. She had on an old plaid dress and a <rs type="color">red</rs> and <rs type="color">green</rs> shawl.
+
+<milestone unit="sentence" n="89"/>She is supposed to be making her way to <placeName key="tgn,1002647" n="1.000 9" reg="mathews, virginia, united states">Mathews county</placeName> or the <rs n="Yankee" type="group">Yankee</rs> lines Information to be left with J B <persName n="Davis,,,,," id="n-0001.0000.00000.00034" reg="mostcommon:Davis,nomatch:0"><surname>Davis</surname></persName>, at <placeName reg="Hill, Scott, Virginia" key="tgn,2112250">Hill</placeName>, <persName n="Dickinson,,,,," id="n-0001.0000.00000.00035" reg="mostcommon:Dickinson,nomatch:0"><surname>Dickinson</surname></persName> &#x0026;Co's, <address><street n="Franklin Street">Franklin st.</street></address> </p> <closer> <signed><persName n="Wall,,H.,C.,," id="n-0001.0000.00000.00036" reg="default:Wall,H.,C.,,"><foreName>H.</foreName> <foreName>C.</foreName>  <surname>Wall</surname></persName>.</signed> <term type="printrun">de 30--2t*</term> </closer> </div3> 
+<div3 type="article" n="5"> 
+<head><measure n="50dollars" type="currency">Fifty dollars</measure> reward.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="90"/> --<measure n="50dollars" type="currency">Fifty dollars</measure> reward <unclear></unclear>offered for the apprehension of my man <persName><foreName>Peter</foreName></persName> who worked on the furcations near <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>, and on the day the bands took the cars for <placeName reg="Lynchburg, Lynchburg, Virginia" key="tgn,7013981">Lynchburg</placeName> he was missing.
+
+<milestone unit="sentence" n="91"/>He is a copper-colored negro <measure n="6feet" type="distance">six feet</measure> high, was raised in <placeName reg="Suffolk, Virginia, United States" key="tgn,7022217">Nansemond county</placeName>, <unclear></unclear>has a wife there.
+
+<milestone unit="sentence" n="92"/>For his safe delivery in any <unclear></unclear>or to <persName n="Tyler,,,,," id="n-0001.0000.00000.00037" reg="nearbymention:Tyler,R.,B.,,"><surname>Tyler</surname></persName> &#x0026;Son, <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>, I will pay the above reward. </p> <closer> <signed><persName n="Moore,,N.,G.,," id="n-0001.0000.00000.00038" reg="default:Moore,N.,G.,,"><foreName>N.</foreName> <foreName>G.</foreName>  <surname>Moore</surname></persName>.</signed> <term type="printrun">[de 29--5t*]</term> </closer> </div3> 
+<div3 type="article" n="6"> 
+<head><measure n="50dollars" type="currency">50 dollars</measure> reward.</head> 
+<p rend="nobreak">
+
+<milestone unit="sentence" n="93"/> --Ranaway, about <measure n="7weeks" type="date">seven weeks</measure> ago, a negro man named <persName n="Irvine,,,,," id="n-0001.0000.00000.00039" reg="mostcommon:Irvine,nomatch:0"><surname>Irvine</surname></persName>.
+
+<milestone unit="sentence" n="94"/><unclear></unclear>vine is about <measure n="25years" type="date">25 years</measure> old, of dark gingerbread color about <measure n="5feet" type="distance">5 feet</measure> <measure n="9inches" type="distance">9 inches</measure> high, heavily built, and round shouldered.
+
+<milestone unit="sentence" n="95"/>He wears a long drab <rs n="sack coat" type="product">sack coat</rs>, steamers if confused, and probably has hired himself <unclear></unclear><placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>.
+
+<milestone unit="sentence" n="96"/>The above reward will be paid on <unclear></unclear> delivery to <persName n="Lee,,,,," id="n-0001.0000.00000.00040" reg="mostcommon:Lee,nomatch:0"><surname>Lee</surname></persName> &#x0026;<persName n="James,,,,," id="n-0001.0000.00000.00041" reg="mostcommon:James,nomatch:0"><surname>James</surname></persName>, <placeName reg="Richmond, Richmond, Virginia" key="tgn,7013964">Richmond</placeName>. </p> <closer> <signed><persName n="Morriss,,Richard,G.,," id="n-0001.0000.00000.00042" reg="expanded:Morriss,"><foreName>Richard</foreName> <foreName>G.</foreName>  <surname>Morriss</surname></persName>.</signed> <term type="printrun">de 16--1aw3t*</term> </closer> </div3> </div2> 
+<div2 type="for rent and sale"> 
+<head rend="italics">For Rent and Sale.</head> 
+<div3 type="ad-blank" n="1"> 
+<head></head> 
+<p>
+
+<milestone unit="sentence" n="97"/> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="2"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="3"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="4"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="5"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="6"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="7"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="8"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="9"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="10"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="11"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="12"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="13"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="14"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="15"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="16"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> 
+<div3 type="ad-blank" n="17"> 
+<head></head> 
+<p> <!-- &advertid; --> </p> </div3> </div2> </div1> </body> </text> </TEI.2>
